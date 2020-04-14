@@ -1,0 +1,966 @@
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "San Giorgio",
+                "wikidata": "Q3947213",
+                "wikipedia": "it:San Giorgio (quartiere di Bari)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.95644350000,
+                    41.09650240000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bari Centrale",
+                "operator": "RFI",
+                "railway": "station",
+                "wikipedia": "it:Stazione di Bari Centrale"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.87004160000,
+                    41.11753720000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fesca-San Girolamo",
+                "railway": "station",
+                "website": "http://www.ferrovienordbarese.it",
+                "wikidata": "Q3969596",
+                "wikipedia": "it:Stazione di Fesca-San Girolamo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.82374480000,
+                    41.12985980000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mungivacca",
+                "railway": "station",
+                "wikidata": "Q3968982",
+                "wikipedia": "it:Stazione di Bari Mungivacca"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.90012750000,
+                    41.09022470000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bari Macchie",
+                "railway": "halt",
+                "wikidata": "Q3968981",
+                "wikipedia": "it:Stazione di Bari Macchie"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.76893860000,
+                    41.14795090000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Marconi",
+                "operator": "RFI",
+                "railway": "halt",
+                "wikidata": "Q3970041",
+                "wikipedia": "it:Stazione di Marconi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88733980000,
+                    41.11716560000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mungivacca",
+                "wikidata": "Q3867120",
+                "wikipedia": "it:Mungivacca"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.90150020000,
+                    41.08949700000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "San Nicola",
+                "wikidata": "Q3634982",
+                "wikipedia": "it:San Nicola (quartiere di Bari)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.86929890000,
+                    41.12805360000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "San Pasquale",
+                "wikidata": "Q3947769",
+                "wikipedia": "it:San Pasquale (quartiere di Bari)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.87614470000,
+                    41.11345550000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tesoro",
+                "operator": "Ferrovie Nord Barese",
+                "railway": "station",
+                "wikidata": "Q3971109",
+                "wikipedia": "it:Stazione di Tesoro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.80217910000,
+                    41.12976930000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "wheelchair": "yes",
+                "amenity": "place_of_worship",
+                "name": "Chiesa di San Marco dei veneziani",
+                "wikipedia": "it:Chiesa di San Marco dei veneziani",
+                "wikidata": "Q1255831"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.86975033369,
+                    41.12964781938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "amenity": "place_of_worship",
+                "name": "Chiesa dell'Annunziata",
+                "wikipedia": "it:Chiesa rurale dell'Annunziata",
+                "wikidata": "Q3674462"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.75124966926,
+                    41.12391273228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Palaflorio - Palazzetto Dello Sport",
+                "wikipedia": "it:PalaFlorio",
+                "wikidata": "Q3889335",
+                "leisure": "sports_centre"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.90673806713,
+                    41.10161834928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Triggiano",
+                "railway": "station",
+                "wheelchair": "limited",
+                "wikidata": "Q16609999",
+                "wikipedia": "it:Stazione di Triggiano"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.91655740000,
+                    41.06403630000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bari Palese Macchie",
+                "railway": "halt",
+                "wikidata": "Q3968985",
+                "wikipedia": "it:Stazione di Bari Palese Macchie"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.76725770000,
+                    41.15143500000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bari Scalo",
+                "operator": "FAL",
+                "railway": "station",
+                "wikidata": "Q3968990",
+                "wikipedia": "it:Stazione di Bari Scalo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.85413520000,
+                    41.11479690000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bari Zona Industriale",
+                "railway": "halt",
+                "wikidata": "Q3968993",
+                "wikipedia": "it:Stazione di Bari Zona Industriale"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.82603870000,
+                    41.12823660000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Enziteto Catino",
+                "operator": "Rete Ferroviaria Italiana",
+                "railway": "halt",
+                "wikidata": "Q3969564",
+                "wikipedia": "it:Stazione di Enziteto Catino"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.73862900000,
+                    41.16250740000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Porto di Bari",
+                "wikipedia": "it:Porto di Bari",
+                "leisure": "marina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.86053855395,
+                    41.13736237064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "wheelchair": "no",
+                "amenity": "place_of_worship",
+                "name": "Cattedrale di San Sabino",
+                "wikipedia": "it:Cattedrale di San Sabino",
+                "wikidata": "Q383884"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.86913825221,
+                    41.12853034316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bari Parco Sud",
+                "operator": "RFI",
+                "railway": "station",
+                "wikidata": "Q3968986",
+                "wikipedia": "it:Stazione di Bari Parco Sud"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89814400000,
+                    41.11501870000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bari La Fitta",
+                "railway": "halt",
+                "website": "https://www.fseonline.it/",
+                "wikidata": "Q3968980",
+                "wikipedia": "it:Stazione di Bari La Fitta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.87181010000,
+                    41.06117840000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Quintino Sella",
+                "railway": "station",
+                "wikidata": "Q3970626",
+                "wikipedia": "it:Stazione di Quintino Sella"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.86195010000,
+                    41.11805020000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": "45",
+                "amenity": "library",
+                "name": "Biblioteca Nazionale Bari",
+                "addr:street": "Via Pietro Oreste",
+                "wikipedia": "it:Biblioteca Metropolitana S. Teresa dei Maschi de Gemmis",
+                "wikidata": "Q16532497"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.84617414137,
+                    41.12894157831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Palese-Macchie",
+                "wikidata": "Q3891738",
+                "wikipedia": "it:Palese-Macchie"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.76577110000,
+                    41.15072110000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Loseto",
+                "wikidata": "Q3837431",
+                "wikipedia": "it:Loseto"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.84749050000,
+                    41.04032310000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Centrale termoelettrica Bari",
+                "wikipedia": "it:Centrale termoelettrica Bari",
+                "wikidata": "Q20010149",
+                "operator": "Enel Energia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.83505153385,
+                    41.11736220914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bari-Santo Spirito",
+                "operator": "Trenitalia",
+                "railway": "station",
+                "wikidata": "Q3968989",
+                "wikipedia": "it:Stazione di Bari Santo Spirito"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.74632960000,
+                    41.15967360000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "amenity": "place_of_worship",
+                "name": "Chiesa del Preziosissimo Sangue in San Rocco",
+                "wikipedia": "it:Chiesa del Preziosissimo Sangue in San Rocco",
+                "wikidata": "Q3668569"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.86289874003,
+                    41.12330158364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bari Centrale Bari Nord",
+                "operator": "Ferrotramviaria S.p.A.Ferrovie del Nord Barese - Autolinee",
+                "railway": "station",
+                "website": "http://www.ferrovienordbarese.it/",
+                "wikidata": "Q3968977",
+                "wikipedia": "it:Stazione di Bari Centrale (FT)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.86815550000,
+                    41.11826330000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ceglie del Campo",
+                "wikidata": "Q654595",
+                "wikipedia": "it:Ceglie del Campo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.86593170000,
+                    41.06438180000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Europa",
+                "railway": "station",
+                "wikidata": "Q16609166",
+                "wikipedia": "it:Stazione di Europa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.78154070000,
+                    41.13519500000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "San Gabriele",
+                "railway": "station",
+                "wikidata": "Q3970792",
+                "wikipedia": "it:Stazione di San Gabriele"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.78534100000,
+                    41.12403810000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "amenity": "place_of_worship",
+                "name": "Chiesa di Santa Chiara",
+                "wikipedia": "it:Chiesa di Santa Chiara (Bari)",
+                "wikidata": "Q3672948"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.86838883200,
+                    41.13038087302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "website": "http://www.aeroportidipuglia.it",
+                "operator": "Aeroporti di Puglia",
+                "local_ref": "BA02",
+                "name": "Aeroporto Internazionale di Bari \"Karol Wojtyla\"",
+                "wikipedia:en": "Bari_International_Airport",
+                "wikipedia": "it:Aeroporto di Bari-Palese",
+                "wikidata": "Q779805"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.76089627076,
+                    41.13703549006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ospedale San Paolo",
+                "operator": "Ferrotramviaria",
+                "railway": "station",
+                "wikidata": "Q3970362",
+                "wikipedia": "it:Stazione di Ospedale"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.77998760000,
+                    41.11763080000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bari Centrale FAL",
+                "operator": "Ferrovie Appulo-Lucane",
+                "railway": "station",
+                "wikidata": "Q3968978",
+                "wikipedia": "it:Stazione di Bari Centrale (FAL)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.86813400000,
+                    41.11846130000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bari Sant'Andrea",
+                "railway": "halt",
+                "wikidata": "Q3968988",
+                "wikipedia": "it:Stazione di Bari Sant'Andrea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.82912190000,
+                    41.10563900000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "amenity": "theatre",
+                "name": "Teatro Petruzzelli",
+                "wikipedia": "it:Teatro Petruzzelli",
+                "wikidata": "Q845510"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.87323462338,
+                    41.12357235533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bari Sud-Est",
+                "operator": "Ferrovie del Sud Est",
+                "railway": "station",
+                "website": "https://www.fseonline.it/",
+                "wikidata": "Q3968991",
+                "wikipedia": "it:Stazione di Bari Sud Est"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.87996520000,
+                    41.11723470000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "wheelchair": "yes",
+                "name": "Stadio San Nicola",
+                "wikipedia": "en:Stadio San Nicola",
+                "leisure": "stadium",
+                "wikidata": "Q328698"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.84008383740,
+                    41.08475631467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "San Paolo",
+                "old_name": "CEP",
+                "wikidata": "Q3947760",
+                "wikipedia": "it:San Paolo (quartiere di Bari)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.79793690000,
+                    41.12484390000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cittadella",
+                "railway": "station",
+                "wikidata": "Q3969422",
+                "wikipedia": "it:Stazione di Cittadella (Bari)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.79273810000,
+                    41.12676050000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bari Palese",
+                "railway": "station",
+                "wikidata": "Q3968984",
+                "wikipedia": "it:Stazione di Bari Palese"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.78039430000,
+                    41.14919630000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Santo Spirito-Catino-San Pio",
+                "wikidata": "Q3949510",
+                "wikipedia": "it:Santo Spirito-Catino-San Pio"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.74681290000,
+                    41.16335770000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "historic": "archaeological_site",
+                "name": "Succorpo Cattedrale",
+                "wikipedia": "it:Cattedrale di San Sabino",
+                "wikidata": "Q383884"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.86887375126,
+                    41.12854375298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "wheelchair": "no",
+                "amenity": "place_of_worship",
+                "name": "Basilica San Nicola",
+                "wikipedia": "it:Basilica di San Nicola",
+                "wikidata": "Q550514"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.87017251791,
+                    41.13030680177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Capurso",
+                "railway": "station",
+                "wheelchair": "yes",
+                "wikidata": "Q16608948",
+                "wikipedia": "it:Stazione di Capurso"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.92330090000,
+                    41.04923900000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "amenity": "theatre",
+                "name": "Teatro comunale Niccolo' Piccinni",
+                "wikipedia": "it:Teatro Piccinni",
+                "addr:street": "Corso Vittorio Emanuele II",
+                "wikidata": "Q845517"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.86744273074,
+                    41.12553413949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Brigata Bari",
+                "railway": "station",
+                "wikidata": "Q3969120",
+                "wikipedia": "it:Stazione di Brigata Bari"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.85203650000,
+                    41.11808950000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aeroporto FM2",
+                "operator": "Ferrovia Nord Barese",
+                "railway": "crossing",
+                "wikidata": "Q14847264",
+                "wikipedia": "it:Stazione di Aeroporto"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.76608670000,
+                    41.13247180000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Libertà",
+                "wikidata": "Q3831746",
+                "wikipedia": "it:Libertà (quartiere di Bari)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.85624820000,
+                    41.12312560000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "wheelchair": "limited",
+                "amenity": "place_of_worship",
+                "name": "Chiesa di Santa Teresa dei Maschi",
+                "wikipedia": "it:Chiesa di Santa Teresa dei Maschi",
+                "wikidata": "Q1256421"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.87026238126,
+                    41.12769126613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bari Policlinico",
+                "operator": "FAL",
+                "railway": "halt",
+                "wikidata": "Q3968987",
+                "wikipedia": "it:Stazione di Bari Policlinico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.85520310000,
+                    41.10985280000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "alt_name": "Stadio della Vittoria",
+                "name": "Arena della Vittoria",
+                "addr:street": "Via di Maratona",
+                "wikipedia": "it:Stadio della Vittoria (Bari)",
+                "leisure": "stadium",
+                "wikidata": "Q3967945"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.83968369155,
+                    41.13308697434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Francesco Crispi",
+                "operator": "FNB",
+                "railway": "station",
+                "wikidata": "Q3969653",
+                "wikipedia": "it:Stazione di Francesco Crispi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.84646640000,
+                    41.12028500000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bari - Ceglie - Carbonara",
+                "operator": "Ferrovie del Sud Est",
+                "railway": "station",
+                "website": "https://www.fseonline.it/",
+                "wheelchair": "limited",
+                "wikidata": "Q3968976",
+                "wikipedia": "it:Stazione di Bari Ceglie-Carbonara"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.87125080000,
+                    41.06864560000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "wheelchair": "no",
+                "addr:housename": "ex Teatro Margherita",
+                "alt_name": "BAC",
+                "old_name": "Teatro Margherita",
+                "name": "Ex Teatro Margherita - Bari Arte Contemporanea",
+                "tourism": "museum",
+                "wikipedia": "it:Teatro Margherita (Bari)",
+                "addr:street": "Piazza Quattro Novembre",
+                "wikidata": "Q3982048",
+                "addr:postcode": "70122"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.87284126299,
+                    41.12640772763
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,336 @@
+{
+  "type": "umap",
+  "properties": {
+    "easing": true,
+    "embedControl": true,
+    "fullscreenControl": true,
+    "searchControl": true,
+    "datalayersControl": true,
+    "zoomControl": true,
+    "slideshow": {},
+    "captionBar": false,
+    "popupContentTemplate": "# {name}\n{description}\n",
+    "limitBounds": {},
+    "tilelayer": {
+      "minZoom": 0,
+      "maxZoom": 19,
+      "attribution": "map data © [[http://osm.org/copyright|OpenStreetMap contributors]] under ODbL ",
+      "url_template": "http://sitmappe.comune.bologna.it/tms/tileserver/Ortofoto2017/{z}/{x}/{y}.png",
+      "name": "Comune di Bologna",
+      "tms": false
+    },
+    "licence": "",
+    "description": "mappa di esempio 1",
+    "name": "Tutorial Didattica aperta 2018",
+    "displayPopupFooter": false,
+    "miniMap": false,
+    "moreControl": true,
+    "scaleControl": true,
+    "scrollWheelZoom": true,
+    "zoom": 14
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.365485191345217,
+      44.492097148347945
+    ]
+  },
+  "layers": [
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "Crimson",
+              "iconClass": "Drop"
+            },
+            "name": "Inserire il nome",
+            "description": "Eventuale descrizione"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.356086730957031,
+              44.49614564811196
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "weight": "9",
+              "opacity": "0.7",
+              "color": "DodgerBlue"
+            },
+            "name": "Nome del percorso"
+          },
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                11.354498863220217,
+                44.49541479607089
+              ],
+              [
+                11.354641020298004,
+                44.495740045492575
+              ],
+              [
+                11.354780495166779,
+                44.495990677632875
+              ],
+              [
+                11.354879736900331,
+                44.49604616093815
+              ],
+              [
+                11.354949474334717,
+                44.49611503669193
+              ],
+              [
+                11.355110406875612,
+                44.496101644190645
+              ],
+              [
+                11.355225741863253,
+                44.49603468163795
+              ],
+              [
+                11.355215013027191,
+                44.49587014475329
+              ],
+              [
+                11.35515332221985,
+                44.49570560740439
+              ],
+              [
+                11.35498970746994,
+                44.49566542960911
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "LightSkyBlue"
+            },
+            "name": "Nome dell'area"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  11.355306208133698,
+                  44.49519094688557
+                ],
+                [
+                  11.35512113571167,
+                  44.49468967465322
+                ],
+                [
+                  11.355432271957397,
+                  44.49462462374231
+                ],
+                [
+                  11.355528831481935,
+                  44.4948810004412
+                ],
+                [
+                  11.355370581150057,
+                  44.494903959493584
+                ],
+                [
+                  11.355493962764742,
+                  44.49513928925926
+                ],
+                [
+                  11.355306208133698,
+                  44.49519094688557
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Area con buco"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  11.35185420513153,
+                  44.495896929859164
+                ],
+                [
+                  11.35117292404175,
+                  44.49569412803712
+                ],
+                [
+                  11.350969076156618,
+                  44.49530000172424
+                ],
+                [
+                  11.35137677192688,
+                  44.49497092334471
+                ],
+                [
+                  11.352041959762575,
+                  44.49459592478796
+                ],
+                [
+                  11.353511810302734,
+                  44.4943051079205
+                ],
+                [
+                  11.354477405548096,
+                  44.49466862877822
+                ],
+                [
+                  11.352825164794924,
+                  44.49474515919634
+                ],
+                [
+                  11.352621316909792,
+                  44.495047453366126
+                ],
+                [
+                  11.353270411491396,
+                  44.49524260446614
+                ],
+                [
+                  11.354058980941774,
+                  44.49530765468769
+                ],
+                [
+                  11.353940963745119,
+                  44.49560611947981
+                ],
+                [
+                  11.35338842868805,
+                  44.495885450529585
+                ],
+                [
+                  11.35185420513153,
+                  44.495896929859164
+                ]
+              ],
+              [
+                [
+                  11.352267265319826,
+                  44.495544896057254
+                ],
+                [
+                  11.352009773254396,
+                  44.49551428432187
+                ],
+                [
+                  11.351902484893799,
+                  44.4953573989258
+                ],
+                [
+                  11.352058053016664,
+                  44.49523495149414
+                ],
+                [
+                  11.352331638336182,
+                  44.495265563376165
+                ],
+                [
+                  11.352460384368896,
+                  44.49539566369547
+                ],
+                [
+                  11.352267265319826,
+                  44.495544896057254
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "showLabel": true
+            },
+            "name": "Questo è un punto con \"Display label\" on"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.354498863220217,
+              44.49406403494414
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Inseriamo nome",
+            "description": "e qui la descrizione"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.349123716354372,
+              44.495740045492575
+            ]
+          }
+        }
+      ],
+      "_storage": {
+        "displayOnLoad": true,
+        "browsable": true,
+        "name": "Layer 1",
+        "id": 622195
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "Olive",
+              "iconClass": "Default",
+              "iconUrl": "/uploads/pictogram/embassy-24_1.png",
+              "labelDirection": "auto",
+              "labelInteractive": true
+            },
+            "name": "Punto con icona",
+            "description": "descrizione"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.355013847351076,
+              44.49649002547988
+            ]
+          }
+        }
+      ],
+      "_storage": {
+        "displayOnLoad": true,
+        "browsable": true,
+        "remoteData": {},
+        "name": "Secondo livello",
+        "description": "Questo è un layer differente dal primo",
+        "id": 622286,
+        "labelDirection": "right",
+        "popupTemplate": "Default",
+        "showLabel": false
+      }
+    }
+  ]
+}

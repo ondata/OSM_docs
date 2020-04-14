@@ -1,0 +1,139 @@
+﻿{
+  "type": "umap",
+  "properties": {
+    "easing": true,
+    "embedControl": true,
+    "fullscreenControl": true,
+    "searchControl": true,
+    "datalayersControl": true,
+    "zoomControl": true,
+    "sortKey": "sequenza",
+    "slideshow": {
+      "active": true,
+      "delay": 3000
+    },
+    "captionBar": false,
+    "popupContentTemplate": "# {nome}\n{descrizione}\n{{{immagine}}}",
+    "iconUrl": "/uploads/pictogram/minefield-24_1.png",
+    "iconClass": "Drop",
+    "color": "Brown",
+    "limitBounds": {},
+    "tilelayer": {
+      "minZoom": 0,
+      "maxZoom": 18,
+      "attribution": "Map tiles by [[http://stamen.com|Stamen Design]], under [[http://creativecommons.org/licenses/by/3.0|CC BY 3.0]]. Data by [[http://openstreetmap.org|OpenStreetMap]], under [[http://creativecommons.org/licenses/by-sa/3.0|CC BY SA]].",
+      "url_template": "http://{s}.tile.stamen.com/watercolor/{z}/{x}/{y}.jpg",
+      "name": "OSM Watercolor (Stamen)",
+      "tms": false
+    },
+    "licence": "",
+    "description": "esempio di animazione (slideshow)",
+    "name": "Slideshow",
+    "displayPopupFooter": false,
+    "miniMap": false,
+    "moreControl": true,
+    "scaleControl": true,
+    "scrollWheelZoom": true,
+    "zoom": 6
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2,
+      51
+    ]
+  },
+  "layers": [
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "nome": "Pippo",
+            "descrizione": "l’amico di topolino",
+            "sequenza": "1",
+            "immagine": "https://upload.wikimedia.org/wikipedia/it/f/fc/Pippo_Disney.png"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              8.91881,
+              44.40767
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "nome": "Pluto",
+            "descrizione": "un cane",
+            "sequenza": "2",
+            "immagine": "https://upload.wikimedia.org/wikipedia/it/4/4c/Pluto_%28Disney%29.jpg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              8.92393,
+              44.40896
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "nome": "Paperino",
+            "descrizione": "lo zio di qui quo qua",
+            "sequenza": "3",
+            "immagine": "https://upload.wikimedia.org/wikipedia/commons/a/a3/The_Spirit_of_43-Donald_Duck%2C_cropped_version.jpg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              8.93392,
+              44.40749
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "nome": "Gastone",
+            "descrizione": "il fortunato",
+            "sequenza": "4",
+            "immagine": "https://upload.wikimedia.org/wikipedia/it/0/0a/Gastone_Paperone_%28Topolino_3122%29.jpg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              8.92456,
+              44.41861
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "nome": "Basettoni",
+            "descrizione": "il commissario",
+            "sequenza": "5",
+            "immagine": ""
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              8.97456,
+              44.39015
+            ]
+          }
+        }
+      ],
+      "_umap_options": {
+        "displayOnLoad": true,
+        "browsable": true,
+        "name": "Layer 1",
+        "id": 624951
+      }
+    }
+  ]
+}

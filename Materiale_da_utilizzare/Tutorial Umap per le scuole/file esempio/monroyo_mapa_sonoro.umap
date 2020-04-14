@@ -1,0 +1,765 @@
+{
+  "type": "umap",
+  "properties": {
+    "easing": true,
+    "embedControl": true,
+    "fullscreenControl": true,
+    "searchControl": true,
+    "datalayersControl": true,
+    "zoomControl": true,
+    "slideshow": {},
+    "captionBar": false,
+    "limitBounds": {
+      "south": 40.78275,
+      "west": -0.04665,
+      "north": 40.79234,
+      "east": -0.01972
+    },
+    "tilelayer": {},
+    "licence": "",
+    "description": "",
+    "name": "Monroyo mapa sonoro",
+    "displayPopupFooter": false,
+    "miniMap": false,
+    "moreControl": true,
+    "scaleControl": true,
+    "scrollWheelZoom": true,
+    "zoom": 16
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.033184289932250984,
+      40.78754399917976
+    ]
+  },
+  "layers": [
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "1. Torre del reloj",
+            "description": "{{{https://ia801502.us.archive.org/24/items/CampanarioReloj/Campanario-reloj.mp3}}}",
+            "_storage_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            },
+            "_umap_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -0.033581,
+              40.788031
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "10. Gasolinera Las Ventas",
+            "description": "{{{https://ia601505.us.archive.org/16/items/GasolineraLasVentas/Gasolinera%20Las%20Ventas.mp3}}}",
+            "_storage_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            },
+            "_umap_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -0.035657,
+              40.788161
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            },
+            "name": "11. Tienda elvira",
+            "description": "{{{https://ia601506.us.archive.org/21/items/TiendaElvira/TiendaElvira.mp3}}}",
+            "_umap_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -0.034263,
+              40.7878
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "12. Rebaño",
+            "description": "{{{https://ia801502.us.archive.org/34/items/Rebano_201807/Reban%CC%83o.mp3}}}",
+            "_storage_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            },
+            "_umap_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -0.042014,
+              40.788243
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "13. Granja",
+            "description": "{{{https://ia801508.us.archive.org/15/items/Granja/Granja.mp3}}}",
+            "_storage_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            },
+            "_umap_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -0.029397,
+              40.784018
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "14. Corral",
+            "description": "{{{https://ia801500.us.archive.org/9/items/Corral/Corral.mp3}}}",
+            "_storage_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            },
+            "_umap_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -0.032653,
+              40.788994
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            },
+            "name": "14. Morra",
+            "description": "{{{https://ia601505.us.archive.org/26/items/Morra/Morra.mp3}}}",
+            "_umap_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -0.031961,
+              40.787629
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            },
+            "name": "15. Polideportivo",
+            "description": "{{{https://ia601501.us.archive.org/8/items/Polideportivo/Polideportivo.mp3}}}",
+            "_umap_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -0.031961,
+              40.786594
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            },
+            "name": "16. Balsa",
+            "description": "{{{https://ia801507.us.archive.org/17/items/Balsa/BALSA.mp3}}}",
+            "_umap_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -0.033705,
+              40.785343
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "17. Alfarera",
+            "description": "{{{https://ia601509.us.archive.org/35/items/ArtesaniaCeramista/Artesania-ceramista.mp3}}}",
+            "_storage_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            },
+            "_umap_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -0.032272,
+              40.784912
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "17. Segadores",
+            "description": "{{{https://ia801505.us.archive.org/25/items/Segadores/Segadores.mp3}}}",
+            "_storage_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            },
+            "_umap_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -0.026779,
+              40.783401
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            },
+            "name": "18. Charranga",
+            "description": "{{{https://ia601501.us.archive.org/24/items/Charranga/Charranga.mp3}}}",
+            "_umap_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -0.032042,
+              40.787438
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "19. Lavaderos",
+            "description": "{{{https://ia801509.us.archive.org/32/items/Lavaderos/Lavaderos.mp3}}}",
+            "_storage_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            },
+            "_umap_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -0.032616,
+              40.786825
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            },
+            "name": "2. Pregon",
+            "description": "{{{https://ia801501.us.archive.org/9/items/pregon_201807/pregon.mp3}}}",
+            "_umap_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -0.03238,
+              40.789323
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            },
+            "name": "21. Misa y toque",
+            "description": "{{{https://ia801503.us.archive.org/3/items/campanario/campanario.mp3}}}",
+            "_umap_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -0.031795,
+              40.787572
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "23. Calmante ",
+            "description": "{{{https://ia601500.us.archive.org/24/items/Calmante/calmante.mp3}}}"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -0.032154,
+              40.787678
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            },
+            "name": "25. Piscina ",
+            "description": "{{{https://ia801507.us.archive.org/3/items/PISCINA016/PISCINA-016.mp3}}}",
+            "_umap_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -0.02871,
+              40.786252
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            },
+            "description": "{{{https://ia601507.us.archive.org/20/items/Posada_201808/Posada.mp3}}}",
+            "name": "27. Hotel Guadalupe",
+            "_umap_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -0.034928,
+              40.788316
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "iconClass": "Default",
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            },
+            "name": "28. Concierto a la fresca",
+            "description": "{{{https://ia601508.us.archive.org/35/items/ALLSANGLIBERTAD141/ALLSA%CC%8ANG%20LIBERTAD-141.mp3}}}",
+            "_umap_options": {
+              "iconClass": "Default",
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -0.028292,
+              40.786334
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            },
+            "name": "28. El Molino",
+            "description": "{{{https://ia601503.us.archive.org/20/items/Elmolino_201808/ElMolino.mp3}}}",
+            "_umap_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -0.034574,
+              40.788007
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            },
+            "name": "3. Mercado ",
+            "description": "{{{https://ia601503.us.archive.org/24/items/mercado-JUeves/mercado-JUeves.mp3}}}",
+            "_umap_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -0.03238,
+              40.787889
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "30. Serrería",
+            "description": "{{{https://ia801509.us.archive.org/25/items/SerreriaAntigua/Serreria%20antigua.mp3}}}",
+            "_storage_options": {
+              "labelHover": true,
+              "showLabel": true,
+              "labelInteractive": true
+            },
+            "_umap_options": {
+              "labelHover": true,
+              "showLabel": true,
+              "labelInteractive": true
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -0.035319,
+              40.787203
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            },
+            "name": "31. Reclamos",
+            "description": "{{{https://ia601507.us.archive.org/34/items/Reclamos/Reclamos.mp3}}}",
+            "_umap_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -0.036671,
+              40.790143
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            },
+            "name": "32. Tres As como tres castillos",
+            "description": "{{{https://ia801505.us.archive.org/14/items/MonroyoLindoYQuerido/Monroyo-lindo-y-querido.mp3}}}",
+            "_umap_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -0.035083,
+              40.787832
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "4. Peluqería Paola",
+            "description": "{{{https://ia601503.us.archive.org/0/items/PaolaPeluquera/Paola-peluquera-editado.mp3}}}",
+            "_storage_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            },
+            "_umap_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -0.032482,
+              40.788279
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "5. Asociación de pensionistas",
+            "description": "{{{https://ia801509.us.archive.org/25/items/chocolatada-jubilados/chocolatada-jubilados.mp3}}}",
+            "_storage_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            },
+            "_umap_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -0.032342,
+              40.788896
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "{{{https://ia801505.us.archive.org/32/items/EnsayoGrupoDeTeatro/ensayo%20grupo%20de%20teatro.mp3}}}",
+            "_storage_options": {
+              "labelInteractive": true,
+              "iconClass": "Default",
+              "popupTemplate": "Default",
+              "showLabel": true,
+              "labelHover": true
+            },
+            "name": "6. Grupo de Teatro",
+            "_umap_options": {
+              "labelInteractive": true,
+              "iconClass": "Default",
+              "popupTemplate": "Default",
+              "showLabel": true,
+              "labelHover": true
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -0.03238,
+              40.788096
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "7. Panaderia",
+            "description": "{{{https://ia601502.us.archive.org/7/items/Panaderia_201808/Panaderia.mp3}}}",
+            "_storage_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            },
+            "_umap_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -0.032385,
+              40.787682
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "8. Tienda Elena",
+            "description": "{{{https://ia601504.us.archive.org/31/items/TiendaElena/Tienda%20Elena.mp3}}}",
+            "_storage_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            },
+            "_umap_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -0.032718,
+              40.787325
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            },
+            "name": "9. La fonda",
+            "description": "{{{https://ia801506.us.archive.org/34/items/DesayunosLaFonda/Desayunos-La%20Fonda.mp3}}}",
+            "_umap_options": {
+              "showLabel": true,
+              "labelHover": true,
+              "labelInteractive": true
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -0.034831,
+              40.788137
+            ]
+          }
+        }
+      ],
+      "_umap_options": {
+        "displayOnLoad": true,
+        "browsable": true,
+        "name": "Layer 1",
+        "id": 600847
+      }
+    }
+  ]
+}

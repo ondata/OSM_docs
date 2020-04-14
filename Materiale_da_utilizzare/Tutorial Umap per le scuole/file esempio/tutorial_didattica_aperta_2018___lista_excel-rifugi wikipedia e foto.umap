@@ -1,0 +1,185 @@
+{
+  "type": "umap",
+  "properties": {
+    "easing": true,
+    "embedControl": true,
+    "fullscreenControl": true,
+    "searchControl": true,
+    "datalayersControl": true,
+    "zoomControl": true,
+    "slideshow": {},
+    "captionBar": false,
+    "weight": "5",
+    "iconUrl": "/uploads/pictogram/lodging-24-white.png",
+    "iconClass": "Drop",
+    "color": "DodgerBlue",
+    "limitBounds": {},
+    "tilelayer": {
+      "tms": false,
+      "attribution": "“OpenCycleMap” - map data © [[http://osm.org/copyright|OpenStreetMap contributors]] under ODbL",
+      "name": "OSM OpenCycleMap",
+      "url_template": "https://{s}.tile.thunderforest.com/cycle/{z}/{x}/{y}.png?apikey=e6b144cfc47a48fd928dad578eb026a6",
+      "minZoom": 0,
+      "maxZoom": 18
+    },
+    "licence": "",
+    "description": "esempio di inserimento dati da foglio excel",
+    "name": "Tutorial Didattica aperta 2018 - lista excel",
+    "displayPopupFooter": false,
+    "miniMap": false,
+    "moreControl": true,
+    "scaleControl": true,
+    "scrollWheelZoom": true,
+    "zoom": 6
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2,
+      51
+    ]
+  },
+  "layers": [
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "nome": "Rifugio Bozano",
+            "ele": "2453",
+            "wikipedia": "https://it.wikipedia.org/wiki/Rifugio_Lorenzo_Bozano",
+            "foto": "https://upload.wikimedia.org/wikipedia/commons/a/af/Rifugio_Lorenzo_Bozano%2C_2453_mt_-_panoramio.jpg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              7.29385857881,
+              44.18542502841
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "nome": "Rifugio Genova-Figari",
+            "ele": "2010",
+            "wikipedia": "https://it.wikipedia.org/wiki/Rifugio_Genova-Figari",
+            "foto": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Rifugio_Genova-Figari_Cima_Chiapous.jpg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              7.33423677989,
+              44.16110600839
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "nome": "Rifugio Franco Remondino",
+            "ele": "2430",
+            "wikipedia": "https://it.wikipedia.org/wiki/Rifugio_Franco_Remondino",
+            "foto": "https://upload.wikimedia.org/wikipedia/commons/d/de/Rifugio_Remondino.JPG"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              7.29570194887,
+              44.16341039146
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "nome": "Rifugio Soria Ellena",
+            "ele": "1840",
+            "wikipedia": "https://it.wikipedia.org/wiki/Rifugio_Soria_Ellena",
+            "foto": "https://upload.wikimedia.org/wikipedia/commons/2/20/Rifugio_Soria_Ellena.jpg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              7.36402923857,
+              44.1399722187
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "nome": "Rifugio Morelli-Buzzi",
+            "ele": "2351",
+            "wikipedia": "https://it.wikipedia.org/wiki/Rifugio_Morelli-Buzzi",
+            "foto": ""
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              7.31333040076,
+              44.19132867438
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "nome": "Rifugio Emilio Questa",
+            "ele": "2386",
+            "wikipedia": "https://it.wikipedia.org/wiki/Rifugio_Emilio_Questa",
+            "foto": "https://upload.wikimedia.org/wikipedia/commons/c/c5/RifugioQuesta-20101010.jpg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              7.21637514736,
+              44.18284166421
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "nome": "Rifugio Valasco",
+            "ele": "",
+            "wikipedia": "https://it.wikipedia.org/wiki/Rifugio_Valasco",
+            "foto": "https://upload.wikimedia.org/wikipedia/commons/d/d5/RifugioValasco-20101010.jpg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              7.2324474,
+              44.1987436
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "nome": "Rifugio Pagarì",
+            "ele": "2627",
+            "wikipedia": "https://it.wikipedia.org/wiki/Rifugio_Pagar%C3%AC",
+            "foto": "https://upload.wikimedia.org/wikipedia/commons/5/51/RifugioPagari.jpg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              7.40643415429,
+              44.12391326813
+            ]
+          }
+        }
+      ],
+      "_storage": {
+        "displayOnLoad": true,
+        "browsable": true,
+        "name": "Rifugi-wikipedia_foto.csv",
+        "remoteData": {},
+        "popupContentTemplate": "# {nome}\nAltitudine: {ele}\nArticolo wikipedia: [[{wikipedia}]]\nFoto: {{{foto}}}",
+        "id": 624209
+      }
+    }
+  ]
+}

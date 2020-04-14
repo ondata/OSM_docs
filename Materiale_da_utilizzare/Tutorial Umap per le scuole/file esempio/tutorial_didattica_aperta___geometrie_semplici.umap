@@ -1,0 +1,1081 @@
+{
+  "type": "umap",
+  "properties": {
+    "easing": true,
+    "tilelayersControl": true,
+    "embedControl": true,
+    "fullscreenControl": true,
+    "searchControl": true,
+    "datalayersControl": true,
+    "zoomControl": true,
+    "longCredit": "Qui i \"ringraziamenti estesi\"",
+    "shortCredit": "Questo è il campo \"Mostra ringraziamenti\"",
+    "slideshow": {},
+    "captionBar": false,
+    "limitBounds": {
+      "south": 40.998816,
+      "west": 16.54335,
+      "north": 41.238577,
+      "east": 17.20253
+    },
+    "tilelayer": {
+      "minZoom": 0,
+      "maxZoom": 18,
+      "attribution": "Tiles courtesy of [[https://www.jawg.io/|jawgmaps]] - Map data [[http://osm.org/copyright/|&copy; OpenStreetMap contributors]], under ODbL.",
+      "url_template": "https://tile.jawg.io/{z}/{x}/{y}.png?api-key=community",
+      "name": "OSM Street (jawgmaps)",
+      "tms": false
+    },
+    "licence": "",
+    "description": "disegnamo semplici geometrie su due livelli diversi",
+    "name": "Tutorial Didattica aperta - geometrie semplici",
+    "displayPopupFooter": true,
+    "miniMap": false,
+    "moreControl": true,
+    "scaleControl": true,
+    "scrollWheelZoom": true,
+    "zoom": 14
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.867146492004398,
+      41.12541699554499
+    ]
+  },
+  "layers": [
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "DarkSlateGray",
+              "opacity": "0.9",
+              "weight": "9",
+              "fill": true,
+              "fillColor": "DarkRed"
+            },
+            "name": "Area",
+            "description": "Qui ho modificato il colore di riempimento rispetto a quello del perimetro, ho modificato anche il peso (il tratto con cui è disegnato il perimetro)."
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  16.838779,
+                  41.12511
+                ],
+                [
+                  16.8326,
+                  41.123235
+                ],
+                [
+                  16.828136,
+                  41.119097
+                ],
+                [
+                  16.828351,
+                  41.112598
+                ],
+                [
+                  16.835475,
+                  41.10985
+                ],
+                [
+                  16.842813,
+                  41.112275
+                ],
+                [
+                  16.842513,
+                  41.120843
+                ],
+                [
+                  16.846976,
+                  41.12081
+                ],
+                [
+                  16.849208,
+                  41.122976
+                ],
+                [
+                  16.848478,
+                  41.125336
+                ],
+                [
+                  16.846504,
+                  41.126047
+                ],
+                [
+                  16.838779,
+                  41.12511
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "DarkBlue",
+              "opacity": "0.9",
+              "smoothFactor": "7.5"
+            },
+            "name": "area con buco in mezzo",
+            "description": "Dopo aver disegnato l'area ci ho cliccato dentro: è apparso un riquadro con 3 comandi, ho selezionato il comando \"Comincia un buco qui\".\nHo anche modificato il campo \"simplify\", provate a visualizzare a diversi livelli di zoom."
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  16.845839,
+                  41.118385
+                ],
+                [
+                  16.848092,
+                  41.118402
+                ],
+                [
+                  16.848457,
+                  41.117399
+                ],
+                [
+                  16.849422,
+                  41.117771
+                ],
+                [
+                  16.850002,
+                  41.11706
+                ],
+                [
+                  16.85086,
+                  41.117125
+                ],
+                [
+                  16.851483,
+                  41.11651
+                ],
+                [
+                  16.852534,
+                  41.116106
+                ],
+                [
+                  16.855345,
+                  41.115621
+                ],
+                [
+                  16.858134,
+                  41.115589
+                ],
+                [
+                  16.858671,
+                  41.116494
+                ],
+                [
+                  16.858649,
+                  41.117189
+                ],
+                [
+                  16.858671,
+                  41.117642
+                ],
+                [
+                  16.858049,
+                  41.118062
+                ],
+                [
+                  16.858714,
+                  41.118902
+                ],
+                [
+                  16.858242,
+                  41.120018
+                ],
+                [
+                  16.858392,
+                  41.1206
+                ],
+                [
+                  16.857705,
+                  41.121214
+                ],
+                [
+                  16.856697,
+                  41.121909
+                ],
+                [
+                  16.855173,
+                  41.122475
+                ],
+                [
+                  16.854358,
+                  41.123525
+                ],
+                [
+                  16.852212,
+                  41.123849
+                ],
+                [
+                  16.851676,
+                  41.124237
+                ],
+                [
+                  16.847749,
+                  41.123719
+                ],
+                [
+                  16.846783,
+                  41.122248
+                ],
+                [
+                  16.847406,
+                  41.120778
+                ],
+                [
+                  16.848285,
+                  41.119937
+                ],
+                [
+                  16.845839,
+                  41.118385
+                ]
+              ],
+              [
+                [
+                  16.852877,
+                  41.119711
+                ],
+                [
+                  16.853028,
+                  41.121036
+                ],
+                [
+                  16.853671,
+                  41.121036
+                ],
+                [
+                  16.854873,
+                  41.120584
+                ],
+                [
+                  16.854937,
+                  41.119872
+                ],
+                [
+                  16.856032,
+                  41.11942
+                ],
+                [
+                  16.855817,
+                  41.118498
+                ],
+                [
+                  16.854615,
+                  41.118304
+                ],
+                [
+                  16.853113,
+                  41.118272
+                ],
+                [
+                  16.852277,
+                  41.118967
+                ],
+                [
+                  16.852877,
+                  41.119711
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "Red",
+              "iconClass": "Default",
+              "iconUrl": "/uploads/pictogram/pitch-24.png",
+              "showLabel": null
+            },
+            "name": "Il Parco",
+            "description": "la descrizione del parco di Piazza Umberto primo"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.87036,
+              41.120863
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "Orchid",
+              "iconClass": "Ball"
+            },
+            "name": "Palla violetta",
+            "description": "Questa è la descrizione della palla violetta"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.868021,
+              41.120847
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Polilinea blu"
+          },
+          "geometry": {
+            "type": "MultiLineString",
+            "coordinates": [
+              [
+                [
+                  16.870161,
+                  41.121631
+                ],
+                [
+                  16.870156,
+                  41.121849
+                ],
+                [
+                  16.870392,
+                  41.121845
+                ],
+                [
+                  16.870639,
+                  41.121909
+                ],
+                [
+                  16.870848,
+                  41.121889
+                ],
+                [
+                  16.871025,
+                  41.12172
+                ]
+              ],
+              [
+                [
+                  16.871025,
+                  41.12172
+                ],
+                [
+                  16.8711,
+                  41.121602
+                ],
+                [
+                  16.871175,
+                  41.121485
+                ]
+              ],
+              [
+                [
+                  16.87103,
+                  41.121453
+                ],
+                [
+                  16.871154,
+                  41.121271
+                ],
+                [
+                  16.870489,
+                  41.12119
+                ],
+                [
+                  16.870311,
+                  41.121174
+                ],
+                [
+                  16.870344,
+                  41.121093
+                ],
+                [
+                  16.870601,
+                  41.121041
+                ],
+                [
+                  16.870907,
+                  41.120725
+                ],
+                [
+                  16.870939,
+                  41.12041
+                ],
+                [
+                  16.870794,
+                  41.120261
+                ],
+                [
+                  16.870381,
+                  41.120164
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Polilinea blu spessa",
+            "_umap_options": {
+              "opacity": "0.7",
+              "weight": "14"
+            }
+          },
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                16.872355,
+                41.121323
+              ],
+              [
+                16.872044,
+                41.12134
+              ],
+              [
+                16.871991,
+                41.121687
+              ],
+              [
+                16.871696,
+                41.121954
+              ],
+              [
+                16.870719,
+                41.122261
+              ],
+              [
+                16.869083,
+                41.122217
+              ],
+              [
+                16.868847,
+                41.121877
+              ],
+              [
+                16.868659,
+                41.121618
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "FireBrick",
+              "weight": "6",
+              "dashArray": "15"
+            },
+            "name": "Polilinea con tratteggio 15"
+          },
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                16.864336,
+                41.122289
+              ],
+              [
+                16.864561,
+                41.120309
+              ],
+              [
+                16.865698,
+                41.12039
+              ],
+              [
+                16.86588,
+                41.11845
+              ],
+              [
+                16.867629,
+                41.118547
+              ],
+              [
+                16.867522,
+                41.119703
+              ],
+              [
+                16.869142,
+                41.119784
+              ],
+              [
+                16.869335,
+                41.118078
+              ],
+              [
+                16.870966,
+                41.118216
+              ],
+              [
+                16.874099,
+                41.118386
+              ],
+              [
+                16.873873,
+                41.120099
+              ],
+              [
+                16.879023,
+                41.120422
+              ],
+              [
+                16.879141,
+                41.120544
+              ],
+              [
+                16.87927,
+                41.12056
+              ],
+              [
+                16.879892,
+                41.121408
+              ],
+              [
+                16.879324,
+                41.121602
+              ],
+              [
+                16.879689,
+                41.122241
+              ],
+              [
+                16.878873,
+                41.122508
+              ],
+              [
+                16.878937,
+                41.122718
+              ],
+              [
+                16.878873,
+                41.122879
+              ],
+              [
+                16.878669,
+                41.123049
+              ],
+              [
+                16.878659,
+                41.123178
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconUrl": "https://png.icons8.com/ios/50/000000/burger-dip.png",
+              "color": "MediumAquaMarine"
+            },
+            "description": "Ho inserito l'URL https://png.icons8.com/ios/50/000000/burger-dip.png nel campo \"Icon symbol\"",
+            "name": "Sarà un gelato?"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.844101,
+              41.107166
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "RoyalBlue",
+              "iconClass": "Drop",
+              "iconUrl": "/uploads/pictogram/embassy-24_1.png",
+              "popupTemplate": "Table"
+            },
+            "name": "Via Quintino Sella",
+            "description": "Quintino Sella fu uno scienziato, politico e alpinista italiano."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.864352,
+              41.122516
+            ]
+          }
+        }
+      ],
+      "_umap_options": {
+        "displayOnLoad": true,
+        "browsable": true,
+        "name": "Layer 1",
+        "id": 633465
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.862469,
+              41.11516
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.863627,
+              41.115128
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.862984,
+              41.115508
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.863434,
+              41.1147
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.862501,
+              41.114534
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.861482,
+              41.119646
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.867039,
+              41.122152
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.859658,
+              41.124593
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.869764,
+              41.127777
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.867275,
+              41.128278
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.868563,
+              41.126791
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.867275,
+              41.127809
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.869164,
+              41.124544
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.874678,
+              41.120859
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.871352,
+              41.117933
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.866374,
+              41.118822
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.867383,
+              41.118709
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                16.871696,
+                41.123978
+              ],
+              [
+                16.869893,
+                41.123784
+              ],
+              [
+                16.868005,
+                41.124059
+              ],
+              [
+                16.864014,
+                41.126144
+              ],
+              [
+                16.86204,
+                41.12587
+              ],
+              [
+                16.860688,
+                41.125255
+              ],
+              [
+                16.859829,
+                41.124932
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "outlink": "https://it.wikipedia.org/wiki/Bari",
+              "showLabel": null
+            },
+            "name": "Se cliccate su questa forma si aprirà una nuova finestra del browser alla pagina Wikipedia di Bari"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  16.871148,
+                  41.124601
+                ],
+                [
+                  16.871749,
+                  41.12414
+                ],
+                [
+                  16.871674,
+                  41.123259
+                ],
+                [
+                  16.872028,
+                  41.122564
+                ],
+                [
+                  16.872854,
+                  41.122014
+                ],
+                [
+                  16.873831,
+                  41.121796
+                ],
+                [
+                  16.874925,
+                  41.121643
+                ],
+                [
+                  16.876513,
+                  41.120931
+                ],
+                [
+                  16.877146,
+                  41.121166
+                ],
+                [
+                  16.877307,
+                  41.121715
+                ],
+                [
+                  16.876813,
+                  41.122928
+                ],
+                [
+                  16.876985,
+                  41.123186
+                ],
+                [
+                  16.877747,
+                  41.123494
+                ],
+                [
+                  16.879088,
+                  41.123679
+                ],
+                [
+                  16.880772,
+                  41.1241
+                ],
+                [
+                  16.882446,
+                  41.124609
+                ],
+                [
+                  16.882735,
+                  41.125005
+                ],
+                [
+                  16.882499,
+                  41.125199
+                ],
+                [
+                  16.882167,
+                  41.124956
+                ],
+                [
+                  16.881706,
+                  41.124673
+                ],
+                [
+                  16.880075,
+                  41.124237
+                ],
+                [
+                  16.879442,
+                  41.123978
+                ],
+                [
+                  16.878777,
+                  41.123809
+                ],
+                [
+                  16.877983,
+                  41.123744
+                ],
+                [
+                  16.8775,
+                  41.123704
+                ],
+                [
+                  16.876974,
+                  41.123518
+                ],
+                [
+                  16.876534,
+                  41.123308
+                ],
+                [
+                  16.87633,
+                  41.122952
+                ],
+                [
+                  16.876502,
+                  41.122508
+                ],
+                [
+                  16.87676,
+                  41.122095
+                ],
+                [
+                  16.876824,
+                  41.121764
+                ],
+                [
+                  16.876695,
+                  41.121384
+                ],
+                [
+                  16.876245,
+                  41.121247
+                ],
+                [
+                  16.875461,
+                  41.12157
+                ],
+                [
+                  16.87471,
+                  41.121918
+                ],
+                [
+                  16.874088,
+                  41.122031
+                ],
+                [
+                  16.873466,
+                  41.122136
+                ],
+                [
+                  16.872994,
+                  41.122305
+                ],
+                [
+                  16.872307,
+                  41.12271
+                ],
+                [
+                  16.872071,
+                  41.12334
+                ],
+                [
+                  16.872082,
+                  41.123922
+                ],
+                [
+                  16.872007,
+                  41.124374
+                ],
+                [
+                  16.871599,
+                  41.124649
+                ],
+                [
+                  16.871148,
+                  41.124601
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconUrl": "https://png.icons8.com/material-outlined/100/000000/sailing-ship-medium.png",
+              "color": "MediumSpringGreen",
+              "showLabel": null,
+              "labelDirection": "top"
+            },
+            "name": "un veliero"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.863949,
+              41.131252
+            ]
+          }
+        }
+      ],
+      "_umap_options": {
+        "displayOnLoad": true,
+        "browsable": true,
+        "remoteData": {},
+        "name": "Secondo layer. Qui faccio apparire il \"Pannello laterale\"",
+        "description": "Questo è il campo descrizione del secondo layer, potete anche ometterlo.\nQuesto layer è di tipo \"raggruppata\", provate a zoomare a diversi livelli.",
+        "type": "Cluster",
+        "cluster": {},
+        "id": 633478,
+        "color": "MediumVioletRed",
+        "iconClass": "Default",
+        "iconUrl": "/uploads/pictogram/minefield-24.png",
+        "popupShape": "Panel",
+        "labelDirection": "bottom"
+      }
+    }
+  ]
+}

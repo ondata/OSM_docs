@@ -1,0 +1,237 @@
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "website": "http://www.rifugiobozano.it/",
+                "name": "Rifugio Bozano",
+                "tourism": "alpine_hut",
+                "@id": "way/152010654",
+                "wikipedia": "it:Rifugio Lorenzo Bozano",
+                "wikidata": "Q3935536",
+                "operator": "Club Alpino Italiano sezione \"Ligure\" - Genova",
+                "building": "yes",
+                "ele": "2453",
+                "addr:city": "Valdieri"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.29385857881,
+                    44.18542502841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "phone": "+39 3477959051",
+                "name": "Rifugio Genova-Figari",
+                "tourism": "alpine_hut",
+                "wikipedia": "it:Rifugio Genova-Figari",
+                "@id": "way/75614681",
+                "wikidata": "Q3935501",
+                "url": "http://www.rifugiogenova.it/",
+                "operator": "Club Alpino Italiano sezione \"Ligure\" - Genova",
+                "building": "yes",
+                "ele": "2010"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.33423677989,
+                    44.16110600839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rifugio Franco Remondino",
+                "tourism": "alpine_hut",
+                "wikipedia": "it:Rifugio Franco Remondino",
+                "@id": "way/152013782",
+                "wikidata": "Q3935613",
+                "operator": "CAI Cuneo",
+                "building": "yes",
+                "url": "http://www.rifugioremondino.it/",
+                "ele": "2430",
+                "addr:city": "Valdieri"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.29570194887,
+                    44.16341039146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "phone": "+39 0171 978382",
+                "name": "Rifugio Soria Ellena",
+                "tourism": "alpine_hut",
+                "wikipedia": "it:Rifugio Soria Ellena",
+                "@id": "way/83490821",
+                "wikidata": "Q3935639",
+                "url": "http://www.rifugiosoriaellena.com/",
+                "ele": "1840"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.36402923857,
+                    44.13997221870
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "website": "www.rifugiomorellibuzzi.it/",
+                "phone": "+39 0171 97394",
+                "name": "Rifugio Morelli-Buzzi",
+                "tourism": "alpine_hut",
+                "wikipedia": "it:Rifugio Morelli-Buzzi",
+                "@id": "way/152010650",
+                "wikidata": "Q3935572",
+                "operator": "CAI Cuneo",
+                "building": "yes",
+                "ele": "2351"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.31333040076,
+                    44.19132867438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rifugio Emilio Questa",
+                "tourism": "alpine_hut",
+                "wikipedia": "it:Rifugio Emilio Questa",
+                "@id": "way/152015530",
+                "wikidata": "Q3935611",
+                "operator": "Club Alpino Italiano sezione \"Ligure\" - Genova",
+                "url": "http://www.rifugioquesta.it/",
+                "building": "yes",
+                "ele": "2386",
+                "addr:city": "Valdieri"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.21637514736,
+                    44.18284166421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/122993300",
+                "addr:city": "Valdieri",
+                "beds": "45",
+                "building": "yes",
+                "cuisine": "italian;regional",
+                "ele": "1764",
+                "email": "info@rifugiovalasco.it",
+                "internet_access": "no",
+                "name": "Rifugio Valasco",
+                "old_name": "Casa Reale di Caccia",
+                "operator": "Flavio Poggio",
+                "payment:cash": "yes",
+                "phone": "+39 348 3230266",
+                "start_date": "1878",
+                "tourism": "alpine_hut",
+                "website": "http://www.rifugiovalasco.it/",
+                "wikidata": "Q3935668",
+                "wikipedia": "it:Rifugio Valasco"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.23244740000,
+                        44.19874360000
+                    ],
+                    [
+                        7.23264980000,
+                        44.19848500000
+                    ],
+                    [
+                        7.23303400000,
+                        44.19863960000
+                    ],
+                    [
+                        7.23292130000,
+                        44.19878360000
+                    ],
+                    [
+                        7.23289960000,
+                        44.19881140000
+                    ],
+                    [
+                        7.23283160000,
+                        44.19889820000
+                    ],
+                    [
+                        7.23244740000,
+                        44.19874360000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "phone": "+39 0171 978398",
+                "name": "Rifugio Pagarì",
+                "tourism": "alpine_hut",
+                "@id": "way/152013250",
+                "wikipedia": "it:Rifugio Pagarì",
+                "wikidata": "Q3935582",
+                "url": "www.rifugiopagari.com",
+                "operator": "Club Alpino Italiano sezione \"Ligure\" - Genova",
+                "capacity": "24",
+                "ele": "2627"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.40643415429,
+                    44.12391326813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "website": "http://www.alpinigenova.org/rifugio.php",
+                "phone": "+33 9 01 71 97 59",
+                "name": "Rifugio Regina Elena",
+                "tourism": "alpine_hut",
+                "wikipedia": "it:Rifugio Regina Elena",
+                "@id": "way/152015909",
+                "wikidata": "Q3935612",
+                "operator": "ANA Genova",
+                "building": "yes",
+                "addr:city": "Valdieri"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.27613969283,
+                    44.15860156529
+                ]
+            }
+        }
+    ]
+}

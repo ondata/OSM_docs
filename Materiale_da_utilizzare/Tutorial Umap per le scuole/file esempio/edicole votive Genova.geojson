@@ -1,0 +1,4564 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-09-14T12:55:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/560319576",
+        "amenity": "place_of_worship",
+        "building": "chapel",
+        "denomination": "catholic",
+        "historic": "wayside_shrine",
+        "name": "Cappella itineraria",
+        "religion": "christian",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.902251,
+              44.5075185
+            ],
+            [
+              8.9022507,
+              44.5074942
+            ],
+            [
+              8.9023156,
+              44.5074938
+            ],
+            [
+              8.9023159,
+              44.5075182
+            ],
+            [
+              8.902251,
+              44.5075185
+            ]
+          ]
+        ]
+      },
+      "id": "way/560319576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/254733316",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9303098,
+          44.4093157
+        ]
+      },
+      "id": "node/254733316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/574310973",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.705947,
+          44.451314
+        ]
+      },
+      "id": "node/574310973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/574481536",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.71403,
+          44.4478528
+        ]
+      },
+      "id": "node/574481536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/865354043",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9377968,
+          44.4242909
+        ]
+      },
+      "id": "node/865354043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1012849129",
+        "amenity": "place_of_worship",
+        "denomination": "catholic",
+        "historic": "wayside_shrine",
+        "man_made": "cave",
+        "name": "Madonnetta",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9689751,
+          44.4101597
+        ]
+      },
+      "id": "node/1012849129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758824887",
+        "historic": "wayside_shrine",
+        "name": "Altare dedicato alla N.S. della Guardia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.929946,
+          44.4113005
+        ]
+      },
+      "id": "node/1758824887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758824893",
+        "historic": "wayside_shrine",
+        "start_date": "1620"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9297292,
+          44.4091398
+        ]
+      },
+      "id": "node/1758824893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758824901",
+        "description": "All'Immacolata e San Zaccaria dai camalli del grano",
+        "historic": "wayside_shrine",
+        "religion": "christian",
+        "start_date": "1752"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9296959,
+          44.4094327
+        ]
+      },
+      "id": "node/1758824901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758824910",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9299839,
+          44.4096457
+        ]
+      },
+      "id": "node/1758824910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758824912",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9299732,
+          44.4097756
+        ]
+      },
+      "id": "node/1758824912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758824917",
+        "historic": "wayside_shrine",
+        "void": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9295351,
+          44.4098619
+        ]
+      },
+      "id": "node/1758824917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758824923",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9298911,
+          44.4099303
+        ]
+      },
+      "id": "node/1758824923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758824925",
+        "historic": "wayside_shrine",
+        "void": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9298589,
+          44.4101912
+        ]
+      },
+      "id": "node/1758824925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758824927",
+        "historic": "wayside_shrine",
+        "name": "La Madonna con Bambino e San Giovannino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9298847,
+          44.4104956
+        ]
+      },
+      "id": "node/1758824927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758824931",
+        "historic": "wayside_shrine",
+        "void": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9298421,
+          44.410931
+        ]
+      },
+      "id": "node/1758824931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758824936",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9307278,
+          44.4111316
+        ]
+      },
+      "id": "node/1758824936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758824939",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.928957,
+          44.4112326
+        ]
+      },
+      "id": "node/1758824939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758824954",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9310648,
+          44.4113177
+        ]
+      },
+      "id": "node/1758824954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758824962",
+        "historic": "wayside_shrine",
+        "void": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9309843,
+          44.4114124
+        ]
+      },
+      "id": "node/1758824962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758824964",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9289391,
+          44.4114705
+        ]
+      },
+      "id": "node/1758824964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758824968",
+        "historic": "wayside_shrine",
+        "void": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9286159,
+          44.4117707
+        ]
+      },
+      "id": "node/1758824968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758824972",
+        "denomination": "catholic",
+        "historic": "wayside_shrine",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.928977,
+          44.4118208
+        ]
+      },
+      "id": "node/1758824972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758824979",
+        "description": "edicola con dipinto",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.929259,
+          44.4118953
+        ]
+      },
+      "id": "node/1758824979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758866784",
+        "historic": "wayside_shrine",
+        "name": "Madonna della Misericordia",
+        "start_date": "C17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9324039,
+          44.409379
+        ]
+      },
+      "id": "node/1758866784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758866785",
+        "historic": "wayside_shrine",
+        "name": "Tabernacolo di San Giovanni Battista e dell'Eterno",
+        "start_date": "1600",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9323414,
+          44.4094668
+        ]
+      },
+      "id": "node/1758866785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758866789",
+        "historic": "wayside_shrine",
+        "void": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9329646,
+          44.4097831
+        ]
+      },
+      "id": "node/1758866789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758866795",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9318094,
+          44.4100474
+        ]
+      },
+      "id": "node/1758866795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758866796",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9328128,
+          44.4101003
+        ]
+      },
+      "id": "node/1758866796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758866797",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.931754,
+          44.4102441
+        ]
+      },
+      "id": "node/1758866797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758866798",
+        "historic": "wayside_shrine",
+        "name": "Madonna della Guardia",
+        "start_date": "C18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9321611,
+          44.4103561
+        ]
+      },
+      "id": "node/1758866798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758866799",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9315897,
+          44.41067
+        ]
+      },
+      "id": "node/1758866799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758866800",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9310761,
+          44.4108577
+        ]
+      },
+      "id": "node/1758866800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758866801",
+        "historic": "wayside_shrine",
+        "name": "Madonna del Rosario",
+        "start_date": "1600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9302546,
+          44.4110684
+        ]
+      },
+      "id": "node/1758866801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758866802",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.929416,
+          44.4117936
+        ]
+      },
+      "id": "node/1758866802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758866803",
+        "historic": "wayside_shrine",
+        "void": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9287874,
+          44.4121626
+        ]
+      },
+      "id": "node/1758866803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758866804",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9284518,
+          44.4121935
+        ]
+      },
+      "id": "node/1758866804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758866805",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9282694,
+          44.4122704
+        ]
+      },
+      "id": "node/1758866805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758866806",
+        "historic": "wayside_shrine",
+        "void": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9283564,
+          44.4122842
+        ]
+      },
+      "id": "node/1758866806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758866807",
+        "historic": "wayside_shrine",
+        "void": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9286069,
+          44.4124151
+        ]
+      },
+      "id": "node/1758866807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758866808",
+        "historic": "wayside_shrine",
+        "void": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9280645,
+          44.4124584
+        ]
+      },
+      "id": "node/1758866808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758866809",
+        "historic": "wayside_shrine",
+        "void": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9302045,
+          44.4124804
+        ]
+      },
+      "id": "node/1758866809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758866810",
+        "historic": "wayside_shrine",
+        "void": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9284645,
+          44.4126409
+        ]
+      },
+      "id": "node/1758866810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758866811",
+        "historic": "wayside_shrine",
+        "void": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9285772,
+          44.4127989
+        ]
+      },
+      "id": "node/1758866811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758866812",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9293902,
+          44.4129253
+        ]
+      },
+      "id": "node/1758866812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758866813",
+        "historic": "wayside_shrine",
+        "void": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9283467,
+          44.4129963
+        ]
+      },
+      "id": "node/1758866813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758866814",
+        "historic": "wayside_shrine",
+        "void": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.927767,
+          44.4131558
+        ]
+      },
+      "id": "node/1758866814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758866815",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9295191,
+          44.4134097
+        ]
+      },
+      "id": "node/1758866815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758866816",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9227564,
+          44.4156205
+        ]
+      },
+      "id": "node/1758866816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758866817",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9249309,
+          44.4153001
+        ]
+      },
+      "id": "node/1758866817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1759466418",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9254593,
+          44.4152017
+        ]
+      },
+      "id": "node/1759466418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1759466419",
+        "historic": "wayside_shrine",
+        "start_date": "1816"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9241171,
+          44.4151842
+        ]
+      },
+      "id": "node/1759466419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1759466538",
+        "historic": "wayside_shrine",
+        "start_date": "1789"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9339714,
+          44.4101565
+        ]
+      },
+      "id": "node/1759466538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1759466544",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.933704,
+          44.4101519
+        ]
+      },
+      "id": "node/1759466544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1759466580",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9326095,
+          44.4096564
+        ]
+      },
+      "id": "node/1759466580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1759466586",
+        "historic": "wayside_shrine",
+        "name": "Madre di Dio",
+        "start_date": "1724"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9335397,
+          44.409976
+        ]
+      },
+      "id": "node/1759466586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1759466592",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9342023,
+          44.4104776
+        ]
+      },
+      "id": "node/1759466592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1759466606",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9340442,
+          44.4099535
+        ]
+      },
+      "id": "node/1759466606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1759466781",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9315746,
+          44.4085019
+        ]
+      },
+      "id": "node/1759466781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1759466901",
+        "historic": "wayside_shrine",
+        "void": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9325552,
+          44.4090537
+        ]
+      },
+      "id": "node/1759466901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1759466958",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.932826,
+          44.4092297
+        ]
+      },
+      "id": "node/1759466958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1759466976",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9332772,
+          44.408864
+        ]
+      },
+      "id": "node/1759466976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1759466980",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9336174,
+          44.4091516
+        ]
+      },
+      "id": "node/1759466980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1759651318",
+        "historic": "wayside_shrine",
+        "void": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9297197,
+          44.4073524
+        ]
+      },
+      "id": "node/1759651318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1762196360",
+        "historic": "wayside_shrine",
+        "inscription": "Molles esto et mollias",
+        "start_date": "1634"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9271703,
+          44.4065902
+        ]
+      },
+      "id": "node/1762196360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1762196362",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.928322,
+          44.406349
+        ]
+      },
+      "id": "node/1762196362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1762196363",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9284041,
+          44.4066435
+        ]
+      },
+      "id": "node/1762196363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1762196383",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9286592,
+          44.4068378
+        ]
+      },
+      "id": "node/1762196383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1762196421",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9312446,
+          44.4071289
+        ]
+      },
+      "id": "node/1762196421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1762196460",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9305812,
+          44.4074286
+        ]
+      },
+      "id": "node/1762196460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1762196490",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9299962,
+          44.4075797
+        ]
+      },
+      "id": "node/1762196490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1762196502",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9293652,
+          44.4074469
+        ]
+      },
+      "id": "node/1762196502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1762196503",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9312292,
+          44.4079281
+        ]
+      },
+      "id": "node/1762196503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1762196504",
+        "historic": "wayside_shrine",
+        "start_date": "1700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9315175,
+          44.4080073
+        ]
+      },
+      "id": "node/1762196504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1762196505",
+        "historic": "wayside_shrine",
+        "void": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9315671,
+          44.4081774
+        ]
+      },
+      "id": "node/1762196505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1762196506",
+        "historic": "wayside_shrine",
+        "void": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9315525,
+          44.4083936
+        ]
+      },
+      "id": "node/1762196506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1762196541",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9329805,
+          44.4083669
+        ]
+      },
+      "id": "node/1762196541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1762196566",
+        "historic": "wayside_shrine",
+        "void": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9322686,
+          44.4066807
+        ]
+      },
+      "id": "node/1762196566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1762196569",
+        "description": "Santa Caterina e Sant'Ambrogio",
+        "historic": "wayside_shrine",
+        "start_date": "1700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9320128,
+          44.4065547
+        ]
+      },
+      "id": "node/1762196569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1762196573",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9324247,
+          44.4061518
+        ]
+      },
+      "id": "node/1762196573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1762196575",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9326123,
+          44.406432
+        ]
+      },
+      "id": "node/1762196575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1762196590",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9297451,
+          44.4117471
+        ]
+      },
+      "id": "node/1762196590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1762196592",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9298261,
+          44.4114031
+        ]
+      },
+      "id": "node/1762196592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1762196631",
+        "historic": "wayside_shrine",
+        "void": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9297668,
+          44.4107006
+        ]
+      },
+      "id": "node/1762196631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1762196636",
+        "historic": "wayside_shrine",
+        "void": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9311956,
+          44.410371
+        ]
+      },
+      "id": "node/1762196636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1762196676",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9310902,
+          44.4090733
+        ]
+      },
+      "id": "node/1762196676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1762196678",
+        "historic": "wayside_shrine",
+        "start_date": "1759"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9311368,
+          44.4091565
+        ]
+      },
+      "id": "node/1762196678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1762196686",
+        "historic": "wayside_shrine",
+        "void": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9310475,
+          44.4089104
+        ]
+      },
+      "id": "node/1762196686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1762196709",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9294977,
+          44.4091091
+        ]
+      },
+      "id": "node/1762196709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1762196727",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9254941,
+          44.4143038
+        ]
+      },
+      "id": "node/1762196727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1762196736",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9257029,
+          44.4142076
+        ]
+      },
+      "id": "node/1762196736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1762196737",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9275438,
+          44.4127478
+        ]
+      },
+      "id": "node/1762196737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1788583091",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9324449,
+          44.4034266
+        ]
+      },
+      "id": "node/1788583091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1788628009",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9340738,
+          44.4092204
+        ]
+      },
+      "id": "node/1788628009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1846220501",
+        "denomination": "catholic",
+        "historic": "wayside_shrine",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8798275,
+          44.4155248
+        ]
+      },
+      "id": "node/1846220501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1925834214",
+        "historic": "wayside_shrine",
+        "name": "Madonnina",
+        "note": "Verrà ricollocata al centro del ponte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9624423,
+          44.4358244
+        ]
+      },
+      "id": "node/1925834214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2062666156",
+        "historic": "wayside_shrine",
+        "name": "Grotta dell'Eremita"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0185727,
+          44.4231618
+        ]
+      },
+      "id": "node/2062666156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2181944396",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9267144,
+          44.4070781
+        ]
+      },
+      "id": "node/2181944396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2181944440",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9265933,
+          44.4071337
+        ]
+      },
+      "id": "node/2181944440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2349337511",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9293212,
+          44.4093291
+        ]
+      },
+      "id": "node/2349337511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2356289904",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9247903,
+          44.4152975
+        ]
+      },
+      "id": "node/2356289904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2356302759",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9298976,
+          44.4064553
+        ]
+      },
+      "id": "node/2356302759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2363343544",
+        "historic": "wayside_shrine",
+        "name": "Cristo San Salvatore",
+        "ref:cercamemoria": "S30b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8911395,
+          44.4098802
+        ]
+      },
+      "id": "node/2363343544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2363343553",
+        "historic": "wayside_shrine",
+        "name": "Don Daste",
+        "ref:cercamemoria": "S14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8902687,
+          44.4123251
+        ]
+      },
+      "id": "node/2363343553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2363343560",
+        "historic": "wayside_shrine",
+        "name": "Immacolata",
+        "ref:cercamemoria": "S16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8890114,
+          44.4132296
+        ]
+      },
+      "id": "node/2363343560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2363343567",
+        "historic": "wayside_shrine",
+        "name": "Madonna - Villa D. M.Franz.",
+        "ref:cercamemoria": "S6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8939509,
+          44.4110295
+        ]
+      },
+      "id": "node/2363343567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2363343573",
+        "historic": "wayside_shrine",
+        "name": "Madonna - ingresso Villa Gavotti",
+        "ref:cercamemoria": "S12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8906081,
+          44.4121859
+        ]
+      },
+      "id": "node/2363343573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2363343579",
+        "historic": "wayside_shrine",
+        "name": "Madonna Misericordia - Villa Grimaldi",
+        "ref:cercamemoria": "S3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8953849,
+          44.4104407
+        ]
+      },
+      "id": "node/2363343579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2363343585",
+        "historic": "wayside_shrine",
+        "name": "Madonna col Bambino",
+        "ref:cercamemoria": "S35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8881344,
+          44.411317
+        ]
+      },
+      "id": "node/2363343585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2363343591",
+        "historic": "wayside_shrine",
+        "name": "Madonna col Bambino",
+        "ref:cercamemoria": "S20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8871553,
+          44.4160413
+        ]
+      },
+      "id": "node/2363343591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2363343598",
+        "historic": "wayside_shrine",
+        "name": "Madonna della Guardia",
+        "ref:cercamemoria": "S21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8861729,
+          44.4179345
+        ]
+      },
+      "id": "node/2363343598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2363343605",
+        "historic": "wayside_shrine",
+        "name": "Madonna della Misericordia",
+        "ref:cercamemoria": "S36"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8879716,
+          44.4111047
+        ]
+      },
+      "id": "node/2363343605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2363343609",
+        "historic": "wayside_shrine",
+        "name": "Madonna della Misericordia",
+        "ref:cercamemoria": "S19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8876636,
+          44.4150161
+        ]
+      },
+      "id": "node/2363343609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2363343610",
+        "historic": "wayside_shrine",
+        "name": "Madonna",
+        "ref:cercamemoria": "S13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8902717,
+          44.4123836
+        ]
+      },
+      "id": "node/2363343610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2363343639",
+        "historic": "wayside_shrine",
+        "name": "Santo Salvatore",
+        "ref:cercamemoria": "S17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8900457,
+          44.4139471
+        ]
+      },
+      "id": "node/2363343639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2363343640",
+        "historic": "wayside_shrine",
+        "ref:cercamemoria": "S7",
+        "void": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8935579,
+          44.411106
+        ]
+      },
+      "id": "node/2363343640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2363343641",
+        "historic": "wayside_shrine",
+        "ref:cercamemoria": "S15",
+        "void": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8891991,
+          44.4119921
+        ]
+      },
+      "id": "node/2363343641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2363352820",
+        "historic": "wayside_shrine",
+        "name": "Madonna del Carmelo",
+        "ref:cercamemoria": "S2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8969068,
+          44.4098772
+        ]
+      },
+      "id": "node/2363352820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2363559690",
+        "historic": "wayside_shrine",
+        "start_date": "1700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9315518,
+          44.4056408
+        ]
+      },
+      "id": "node/2363559690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2363561744",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9310462,
+          44.407494
+        ]
+      },
+      "id": "node/2363561744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2363561997",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9301575,
+          44.4075845
+        ]
+      },
+      "id": "node/2363561997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2364389580",
+        "historic": "wayside_shrine",
+        "name": "Madonna S. Anime Purgatorio",
+        "ref:cercamemoria": "S27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8945865,
+          44.4088691
+        ]
+      },
+      "id": "node/2364389580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2364389581",
+        "historic": "wayside_shrine",
+        "name": "Madonna della Guardia",
+        "ref:cercamemoria": "S34"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.887989,
+          44.4101828
+        ]
+      },
+      "id": "node/2364389581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2364389582",
+        "historic": "wayside_shrine",
+        "name": "Monogramma mariano",
+        "ref:cercamemoria": "S15b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8893973,
+          44.4122094
+        ]
+      },
+      "id": "node/2364389582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2364389596",
+        "historic": "wayside_shrine",
+        "ref:cercamemoria": "S33",
+        "void": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8896679,
+          44.410052
+        ]
+      },
+      "id": "node/2364389596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2364389618",
+        "historic": "wayside_shrine",
+        "name": "simbolo del Cristo e Maria",
+        "ref:cercamemoria": "S9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.890932,
+          44.4117719
+        ]
+      },
+      "id": "node/2364389618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2364389619",
+        "historic": "wayside_shrine",
+        "name": "simbolo del Cristo",
+        "ref:cercamemoria": "S10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8908971,
+          44.4119606
+        ]
+      },
+      "id": "node/2364389619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2370694681",
+        "historic": "wayside_shrine",
+        "name": "Madonna Miseric. - S. Padre Pio",
+        "ref:cercamemoria": "D7",
+        "void": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9094432,
+          44.4135163
+        ]
+      },
+      "id": "node/2370694681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2370694685",
+        "historic": "wayside_shrine",
+        "name": "Madonna col Bambino - formella",
+        "ref:cercamemoria": "D18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9052936,
+          44.418051
+        ]
+      },
+      "id": "node/2370694685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2370694689",
+        "historic": "wayside_shrine",
+        "name": "Madonna della Guardia",
+        "ref:cercamemoria": "D20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9049627,
+          44.414677
+        ]
+      },
+      "id": "node/2370694689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2370694696",
+        "historic": "wayside_shrine",
+        "name": "Madonna",
+        "ref:cercamemoria": "D17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9067785,
+          44.4170181
+        ]
+      },
+      "id": "node/2370694696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2370694699",
+        "historic": "wayside_shrine",
+        "name": "Monogramma mariano e cristologico",
+        "ref:cercamemoria": "S17b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9058731,
+          44.4176115
+        ]
+      },
+      "id": "node/2370694699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2370694729",
+        "historic": "wayside_shrine",
+        "name": "San Francesco da Paola",
+        "ref:cercamemoria": "D3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9141704,
+          44.4151412
+        ]
+      },
+      "id": "node/2370694729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2370694747",
+        "historic": "wayside_shrine",
+        "ref:cercamemoria": "unknown",
+        "void": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9084363,
+          44.4142503
+        ]
+      },
+      "id": "node/2370694747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2370694755",
+        "historic": "wayside_shrine",
+        "ref:cercamemoria": "D4",
+        "void": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9128613,
+          44.414536
+        ]
+      },
+      "id": "node/2370694755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2370694788",
+        "historic": "wayside_shrine",
+        "ref:cercamemoria": "unknown",
+        "void": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9074795,
+          44.4155735
+        ]
+      },
+      "id": "node/2370694788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2371255539",
+        "historic": "wayside_shrine",
+        "name": "Madonna della Misericordia",
+        "ref:cercamemoria": "D1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9161038,
+          44.4157213
+        ]
+      },
+      "id": "node/2371255539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382353509",
+        "historic": "wayside_shrine",
+        "name": "Formella con Madonnina",
+        "ref:cercamemoria": "unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9136815,
+          44.4161616
+        ]
+      },
+      "id": "node/2382353509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382353510",
+        "historic": "wayside_shrine",
+        "name": "Madonna della Misericordia",
+        "ref:cercamemoria": "D26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9135178,
+          44.416679
+        ]
+      },
+      "id": "node/2382353510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382353518",
+        "historic": "wayside_shrine",
+        "name": "San Francesco da Paola",
+        "ref:cercamemoria": "D28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9131386,
+          44.4181629
+        ]
+      },
+      "id": "node/2382353518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382353519",
+        "historic": "wayside_shrine",
+        "name": "San Rocco",
+        "ref:cercamemoria": "D27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9135218,
+          44.417428
+        ]
+      },
+      "id": "node/2382353519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382353520",
+        "description": "Gesù condannato a morte",
+        "historic": "wayside_shrine",
+        "name": "Via Crucis, stazione 1",
+        "ref:cercamemoria": "unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9134042,
+          44.417423
+        ]
+      },
+      "id": "node/2382353520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382353521",
+        "description": "Gesù riceve la croce sulle spalle",
+        "historic": "wayside_shrine",
+        "name": "Via Crucis, stazione 2",
+        "ref:cercamemoria": "unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9133163,
+          44.4176079
+        ]
+      },
+      "id": "node/2382353521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382353522",
+        "description": "Gesù cade per la prima volta sotto croce",
+        "historic": "wayside_shrine",
+        "name": "Via Crucis, stazione 3",
+        "ref:cercamemoria": "unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9132145,
+          44.4178373
+        ]
+      },
+      "id": "node/2382353522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382353523",
+        "description": "Gesù incontra la sua Santissima Madre",
+        "historic": "wayside_shrine",
+        "name": "Via Crucis, stazione 4",
+        "ref:cercamemoria": "unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9131315,
+          44.4179799
+        ]
+      },
+      "id": "node/2382353523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382353524",
+        "description": "Gesù aiutato dal Cireneo",
+        "historic": "wayside_shrine",
+        "name": "Via Crucis, stazione 5",
+        "ref:cercamemoria": "unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9130889,
+          44.4181312
+        ]
+      },
+      "id": "node/2382353524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382353528",
+        "historic": "wayside_shrine",
+        "ref:cercamemoria": "unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9122872,
+          44.4147009
+        ]
+      },
+      "id": "node/2382353528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382575618",
+        "historic": "wayside_shrine",
+        "name": "Assunta",
+        "ref:cercamemoria": "D30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.913856,
+          44.4181871
+        ]
+      },
+      "id": "node/2382575618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382575621",
+        "historic": "wayside_shrine",
+        "name": "Madonna",
+        "ref:cercamemoria": "D29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9138642,
+          44.4179171
+        ]
+      },
+      "id": "node/2382575621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382575622",
+        "historic": "wayside_shrine",
+        "name": "Monogramma del Cristo e mariano",
+        "ref:cercamemoria": "D31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9135886,
+          44.4182094
+        ]
+      },
+      "id": "node/2382575622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382575627",
+        "historic": "wayside_shrine",
+        "name": "Ricordo dei 500 anni di presenza Frati minimi",
+        "ref:cercamemoria": "unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9139462,
+          44.419254
+        ]
+      },
+      "id": "node/2382575627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382575628",
+        "description": "Gesù spogliato e abbeverato di fiele",
+        "historic": "wayside_shrine",
+        "name": "Via Crucis, stazione 10",
+        "ref:cercamemoria": "unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9138229,
+          44.4180066
+        ]
+      },
+      "id": "node/2382575628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382575631",
+        "description": "Gesù inchiodato sulla croce",
+        "historic": "wayside_shrine",
+        "name": "Via Crucis, stazione 11",
+        "ref:cercamemoria": "unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9138663,
+          44.4180567
+        ]
+      },
+      "id": "node/2382575631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382575634",
+        "historic": "wayside_shrine",
+        "name": "Via Crucis, stazione 12",
+        "ref:cercamemoria": "unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9138726,
+          44.4181488
+        ]
+      },
+      "id": "node/2382575634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382575635",
+        "description": "Gesù deposto dalla croce",
+        "historic": "wayside_shrine",
+        "name": "Via Crucis, stazione 13",
+        "ref:cercamemoria": "unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9137373,
+          44.4182226
+        ]
+      },
+      "id": "node/2382575635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382575636",
+        "description": "Gesù posto nel Santo Sepolcro",
+        "historic": "wayside_shrine",
+        "name": "Via Crucis, stazione 14",
+        "ref:cercamemoria": "unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9134877,
+          44.4181962
+        ]
+      },
+      "id": "node/2382575636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382575637",
+        "description": "La faccia di Gesù asciugata dalla Veronica",
+        "historic": "wayside_shrine",
+        "name": "Via Crucis, stazione 6",
+        "ref:cercamemoria": "unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9132962,
+          44.4181268
+        ]
+      },
+      "id": "node/2382575637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382575638",
+        "description": "Gesù cade per la seconda volta",
+        "historic": "wayside_shrine",
+        "name": "Via Crucis, stazione 7",
+        "ref:cercamemoria": "unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9133734,
+          44.4179953
+        ]
+      },
+      "id": "node/2382575638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382575639",
+        "description": "Gesù consola le donne di Gerusalemme",
+        "historic": "wayside_shrine",
+        "name": "Via Crucis, stazione 8",
+        "ref:cercamemoria": "unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9134906,
+          44.4179611
+        ]
+      },
+      "id": "node/2382575639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382575640",
+        "description": "Gesù cade per la terza volta sotto la croce",
+        "historic": "wayside_shrine",
+        "name": "Via Crucis, stazione 9",
+        "ref:cercamemoria": "unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9136828,
+          44.4179845
+        ]
+      },
+      "id": "node/2382575640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382575652",
+        "historic": "wayside_shrine",
+        "ref:cercamemoria": "D35",
+        "void": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9154386,
+          44.4193069
+        ]
+      },
+      "id": "node/2382575652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382738651",
+        "historic": "wayside_shrine",
+        "name": "Assunzione di Maria",
+        "ref:cercamemoria": "D48"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9113554,
+          44.4267657
+        ]
+      },
+      "id": "node/2382738651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382738652",
+        "historic": "wayside_shrine",
+        "name": "Madonna - formella",
+        "ref:cercamemoria": "D40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9144009,
+          44.4239406
+        ]
+      },
+      "id": "node/2382738652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382738653",
+        "historic": "wayside_shrine",
+        "name": "Madonna col Bambino",
+        "ref:cercamemoria": "D18b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9157774,
+          44.4187346
+        ]
+      },
+      "id": "node/2382738653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382738654",
+        "historic": "wayside_shrine",
+        "name": "Madonna col Bambino",
+        "ref:cercamemoria": "D37"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9153921,
+          44.4202968
+        ]
+      },
+      "id": "node/2382738654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382738655",
+        "historic": "wayside_shrine",
+        "name": "Madonna della Guardia",
+        "ref:cercamemoria": "D39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9146537,
+          44.4235868
+        ]
+      },
+      "id": "node/2382738655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382738656",
+        "historic": "wayside_shrine",
+        "name": "Madonna della Guardia",
+        "ref:cercamemoria": "D47"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9113976,
+          44.4268776
+        ]
+      },
+      "id": "node/2382738656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382738657",
+        "historic": "wayside_shrine",
+        "name": "Madonna della Misericordia",
+        "ref:cercamemoria": "D41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9116549,
+          44.4263126
+        ]
+      },
+      "id": "node/2382738657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382738658",
+        "historic": "wayside_shrine",
+        "name": "Madonna della Sapienza",
+        "ref:cercamemoria": "D36"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9154638,
+          44.4199174
+        ]
+      },
+      "id": "node/2382738658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382738659",
+        "historic": "wayside_shrine",
+        "name": "Madonna di Fatima",
+        "ref:cercamemoria": "D46"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9114866,
+          44.4268656
+        ]
+      },
+      "id": "node/2382738659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382738660",
+        "historic": "wayside_shrine",
+        "name": "Madonna – formella",
+        "ref:cercamemoria": "D52"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.915448,
+          44.4183034
+        ]
+      },
+      "id": "node/2382738660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382738669",
+        "historic": "wayside_shrine",
+        "name": "Sacro Cuore",
+        "ref:cercamemoria": "D38"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9150972,
+          44.422917
+        ]
+      },
+      "id": "node/2382738669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382738670",
+        "historic": "wayside_shrine",
+        "name": "Sacro Cuore",
+        "ref:cercamemoria": "D43"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.910734,
+          44.4269428
+        ]
+      },
+      "id": "node/2382738670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382738671",
+        "historic": "wayside_shrine",
+        "name": "Viso dell'Assunta",
+        "ref:cercamemoria": "D49"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9113473,
+          44.4267425
+        ]
+      },
+      "id": "node/2382738671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382738672",
+        "historic": "wayside_shrine",
+        "name": "formella 1952",
+        "ref:cercamemoria": "D42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9111763,
+          44.4263452
+        ]
+      },
+      "id": "node/2382738672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382738673",
+        "historic": "wayside_shrine",
+        "name": "formella 1952",
+        "ref:cercamemoria": "D44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9109208,
+          44.4265438
+        ]
+      },
+      "id": "node/2382738673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382746261",
+        "historic": "wayside_shrine",
+        "name": "Immacolata",
+        "ref:cercamemoria": "D55"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9156096,
+          44.4173314
+        ]
+      },
+      "id": "node/2382746261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382746262",
+        "historic": "wayside_shrine",
+        "name": "Immacolata",
+        "ref:cercamemoria": "D54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9166625,
+          44.4182218
+        ]
+      },
+      "id": "node/2382746262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2395314201",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9300436,
+          44.4087767
+        ]
+      },
+      "id": "node/2395314201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2397655745",
+        "historic": "wayside_shrine",
+        "saint": "Sant'Antonio Da Padova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9326199,
+          44.4065276
+        ]
+      },
+      "id": "node/2397655745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2468539206",
+        "historic": "wayside_shrine",
+        "name": "Addolorata",
+        "ref:cercamemoria": "S41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8869374,
+          44.4134577
+        ]
+      },
+      "id": "node/2468539206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2468539210",
+        "historic": "wayside_shrine",
+        "name": "Immacolata",
+        "ref:cercamemoria": "S37"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8868698,
+          44.4104983
+        ]
+      },
+      "id": "node/2468539210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2468539214",
+        "historic": "wayside_shrine",
+        "name": "Immacolata",
+        "ref:cercamemoria": "S50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8991922,
+          44.419055
+        ]
+      },
+      "id": "node/2468539214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2468539217",
+        "historic": "wayside_shrine",
+        "name": "Immacolata",
+        "ref:cercamemoria": "S25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.888226,
+          44.4198905
+        ]
+      },
+      "id": "node/2468539217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2468539221",
+        "historic": "wayside_shrine",
+        "name": "Immacolata",
+        "ref:cercamemoria": "S49"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8993424,
+          44.4214588
+        ]
+      },
+      "id": "node/2468539221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2468539224",
+        "historic": "wayside_shrine",
+        "name": "Madonna col Bambino - Agnus Dei",
+        "ref:cercamemoria": "S45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8943194,
+          44.4190731
+        ]
+      },
+      "id": "node/2468539224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2468539227",
+        "historic": "wayside_shrine",
+        "name": "Madonna col Bambino",
+        "ref:cercamemoria": "S44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8931667,
+          44.417948
+        ]
+      },
+      "id": "node/2468539227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2468539231",
+        "historic": "wayside_shrine",
+        "name": "Madonna della Guardia",
+        "ref:cercamemoria": "S18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8877274,
+          44.4141092
+        ]
+      },
+      "id": "node/2468539231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2468539234",
+        "historic": "wayside_shrine",
+        "name": "Madonna della Guardia",
+        "ref:cercamemoria": "S23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8857999,
+          44.4180957
+        ]
+      },
+      "id": "node/2468539234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2468539237",
+        "historic": "wayside_shrine",
+        "name": "Madonna della Misericordia",
+        "ref:cercamemoria": "S38"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8856029,
+          44.4110952
+        ]
+      },
+      "id": "node/2468539237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2468539241",
+        "historic": "wayside_shrine",
+        "name": "Madonna delle Spine",
+        "ref:cercamemoria": "S48"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.897275,
+          44.4221729
+        ]
+      },
+      "id": "node/2468539241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2468539244",
+        "historic": "wayside_shrine",
+        "name": "Sacro Cuore di Cristo",
+        "ref:cercamemoria": "S22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.888425,
+          44.4175018
+        ]
+      },
+      "id": "node/2468539244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2468539248",
+        "historic": "wayside_shrine",
+        "name": "San Martino",
+        "ref:cercamemoria": "S24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8874368,
+          44.420161
+        ]
+      },
+      "id": "node/2468539248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2468539252",
+        "historic": "wayside_shrine",
+        "ref:cercamemoria": "S1b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9024545,
+          44.4152054
+        ]
+      },
+      "id": "node/2468539252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2468539256",
+        "historic": "wayside_shrine",
+        "ref:cercamemoria": "S46",
+        "void": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8972461,
+          44.4222433
+        ]
+      },
+      "id": "node/2468539256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2468539258",
+        "historic": "wayside_shrine",
+        "ref:cercamemoria": "S47",
+        "void": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8971245,
+          44.4223013
+        ]
+      },
+      "id": "node/2468539258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2468558212",
+        "historic": "wayside_shrine",
+        "name": "Agnello di Dio",
+        "ref:cercamemoria": "S28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8928357,
+          44.4092448
+        ]
+      },
+      "id": "node/2468558212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2468558213",
+        "historic": "wayside_shrine",
+        "name": "Cristo dolorante",
+        "ref:cercamemoria": "S31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8915052,
+          44.4100241
+        ]
+      },
+      "id": "node/2468558213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2468558214",
+        "historic": "wayside_shrine",
+        "name": "Cristo",
+        "ref:cercamemoria": "S30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8914382,
+          44.4095839
+        ]
+      },
+      "id": "node/2468558214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2468558215",
+        "historic": "wayside_shrine",
+        "name": "Madonna Regina Città",
+        "ref:cercamemoria": "S26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8970405,
+          44.4081654
+        ]
+      },
+      "id": "node/2468558215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2468558217",
+        "historic": "wayside_shrine",
+        "name": "Madonna col Bambino",
+        "ref:cercamemoria": "S32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8915539,
+          44.410134
+        ]
+      },
+      "id": "node/2468558217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2468558220",
+        "historic": "wayside_shrine",
+        "name": "Madonna col Bambino",
+        "ref:cercamemoria": "S4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8947051,
+          44.4102857
+        ]
+      },
+      "id": "node/2468558220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2468558225",
+        "historic": "wayside_shrine",
+        "name": "Madonna col Bambino",
+        "ref:cercamemoria": "S8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.892685,
+          44.412322
+        ]
+      },
+      "id": "node/2468558225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2468558227",
+        "historic": "wayside_shrine",
+        "name": "Madonna col Bambino",
+        "ref:cercamemoria": "S43"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.891748,
+          44.4134684
+        ]
+      },
+      "id": "node/2468558227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2468558229",
+        "historic": "wayside_shrine",
+        "name": "Madonna",
+        "ref:cercamemoria": "S42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.889475,
+          44.4133488
+        ]
+      },
+      "id": "node/2468558229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2468558231",
+        "historic": "wayside_shrine",
+        "name": "San Michele Arcangelo",
+        "ref:cercamemoria": "S5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8944806,
+          44.4108731
+        ]
+      },
+      "id": "node/2468558231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2468558232",
+        "historic": "wayside_shrine",
+        "name": "San Pietro",
+        "ref:cercamemoria": "S1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8983055,
+          44.4101096
+        ]
+      },
+      "id": "node/2468558232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2468558233",
+        "historic": "wayside_shrine",
+        "ref:cercamemoria": "S29",
+        "void": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8921077,
+          44.4094245
+        ]
+      },
+      "id": "node/2468558233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2468558236",
+        "historic": "wayside_shrine",
+        "ref:cercamemoria": "S2b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.898205,
+          44.4104275
+        ]
+      },
+      "id": "node/2468558236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2468558238",
+        "description": "Posizionata all'interno dell'officina",
+        "historic": "wayside_shrine",
+        "ref:cercamemoria": "S11",
+        "void": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8907357,
+          44.4119784
+        ]
+      },
+      "id": "node/2468558238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2564929552",
+        "historic": "wayside_shrine",
+        "name": "Madonna col Bambino e Santi",
+        "ref:cercamemoria": "S43c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8935151,
+          44.4177976
+        ]
+      },
+      "id": "node/2564929552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2564929554",
+        "historic": "wayside_shrine",
+        "name": "Madonna della Guardia",
+        "ref:cercamemoria": "S40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8831408,
+          44.4153027
+        ]
+      },
+      "id": "node/2564929554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2564929555",
+        "historic": "wayside_shrine",
+        "name": "Madonna della Guardia",
+        "ref:cercamemoria": "S52"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8999783,
+          44.4172066
+        ]
+      },
+      "id": "node/2564929555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2564929556",
+        "historic": "wayside_shrine",
+        "name": "Madonna della Misericordia",
+        "ref:cercamemoria": "S55"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8987906,
+          44.418459
+        ]
+      },
+      "id": "node/2564929556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2564929557",
+        "historic": "wayside_shrine",
+        "name": "Madonna",
+        "ref:cercamemoria": "S53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8999626,
+          44.4166616
+        ]
+      },
+      "id": "node/2564929557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2564929558",
+        "historic": "wayside_shrine",
+        "name": "Nostra Signora di Belvedere",
+        "ref:cercamemoria": "S43b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8934539,
+          44.417881
+        ]
+      },
+      "id": "node/2564929558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2564929559",
+        "historic": "wayside_shrine",
+        "ref:cercamemoria": "S57",
+        "void": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8964876,
+          44.4159089
+        ]
+      },
+      "id": "node/2564929559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2565348146",
+        "historic": "wayside_shrine",
+        "name": "Agnus Dei - chiave di volta",
+        "ref:cercamemoria": "S44b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8939276,
+          44.4186682
+        ]
+      },
+      "id": "node/2565348146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2565348150",
+        "historic": "wayside_shrine",
+        "name": "Gesù benedicente e Madonna",
+        "ref:cercamemoria": "S58"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8938996,
+          44.4131421
+        ]
+      },
+      "id": "node/2565348150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2565348155",
+        "historic": "wayside_shrine",
+        "name": "Immacolata - Bernadette",
+        "ref:cercamemoria": "S50b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8995729,
+          44.4185685
+        ]
+      },
+      "id": "node/2565348155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2565348159",
+        "historic": "wayside_shrine",
+        "name": "Immacolata",
+        "ref:cercamemoria": "S51"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8989141,
+          44.4169435
+        ]
+      },
+      "id": "node/2565348159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2565348162",
+        "historic": "wayside_shrine",
+        "name": "Madonna della Guardia",
+        "ref:cercamemoria": "S45b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.896367,
+          44.4207147
+        ]
+      },
+      "id": "node/2565348162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2565348167",
+        "historic": "wayside_shrine",
+        "name": "Madonna di Loreto",
+        "ref:cercamemoria": "S50c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8996206,
+          44.4184972
+        ]
+      },
+      "id": "node/2565348167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2566214830",
+        "historic": "wayside_shrine",
+        "name": "San Giorgio",
+        "ref:cercamemoria": "D56"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9168121,
+          44.4175765
+        ]
+      },
+      "id": "node/2566214830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2568950593",
+        "historic": "wayside_shrine",
+        "name": "Madonna col Bambino e Santi",
+        "ref:cercamemoria": "D13",
+        "void": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9076626,
+          44.4140822
+        ]
+      },
+      "id": "node/2568950593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2569006105",
+        "historic": "wayside_shrine",
+        "name": "Madonna della Guardia",
+        "ref:cercamemoria": "D21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9037573,
+          44.4215566
+        ]
+      },
+      "id": "node/2569006105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2742035406",
+        "historic": "wayside_shrine",
+        "name": "Immacolata",
+        "ref:cercamemoria": "S37"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8859372,
+          44.4106308
+        ]
+      },
+      "id": "node/2742035406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2743090246",
+        "historic": "wayside_shrine",
+        "name": "Madonna col Bambino",
+        "ref:cercamemoria": "D19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.904427,
+          44.418178
+        ]
+      },
+      "id": "node/2743090246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2743354186",
+        "historic": "wayside_shrine",
+        "name": "Madonna col Bambino",
+        "ref:cercamemoria": "S43"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8917461,
+          44.4136242
+        ]
+      },
+      "id": "node/2743354186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2788725223",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9544499,
+          44.4075645
+        ]
+      },
+      "id": "node/2788725223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2788725229",
+        "historic": "wayside_shrine",
+        "start_date": "2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9551742,
+          44.4076973
+        ]
+      },
+      "id": "node/2788725229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2813173577",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9588745,
+          44.4420119
+        ]
+      },
+      "id": "node/2813173577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2829907827",
+        "historic": "wayside_shrine",
+        "name": "Madonna Immacolata Concezione"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9328048,
+          44.4034975
+        ]
+      },
+      "id": "node/2829907827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2829907845",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9333736,
+          44.4044752
+        ]
+      },
+      "id": "node/2829907845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2829907846",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9292718,
+          44.404956
+        ]
+      },
+      "id": "node/2829907846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2829907848",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9294907,
+          44.4062548
+        ]
+      },
+      "id": "node/2829907848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2855393694",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8997231,
+          44.4564674
+        ]
+      },
+      "id": "node/2855393694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2888583822",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7027195,
+          44.4580452
+        ]
+      },
+      "id": "node/2888583822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2992258420",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9798653,
+          44.4570888
+        ]
+      },
+      "id": "node/2992258420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3005273256",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9336276,
+          44.404902
+        ]
+      },
+      "id": "node/3005273256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3030831275",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9314923,
+          44.4038724
+        ]
+      },
+      "id": "node/3030831275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3030831278",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9300543,
+          44.4042009
+        ]
+      },
+      "id": "node/3030831278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3047251991",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9032245,
+          44.4948153
+        ]
+      },
+      "id": "node/3047251991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3098599433",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9494702,
+          44.4083489
+        ]
+      },
+      "id": "node/3098599433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3118365067",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9299225,
+          44.4151072
+        ]
+      },
+      "id": "node/3118365067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3500530917",
+        "description": "Madonnina",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9891684,
+          44.4460727
+        ]
+      },
+      "id": "node/3500530917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3504891526",
+        "denomination": "catholic",
+        "historic": "wayside_shrine",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9138063,
+          44.4570457
+        ]
+      },
+      "id": "node/3504891526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3551962639",
+        "description": "Madonnina",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9735582,
+          44.4405099
+        ]
+      },
+      "id": "node/3551962639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3760270647",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0345744,
+          44.3846472
+        ]
+      },
+      "id": "node/3760270647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3762418528",
+        "historic": "wayside_shrine",
+        "inscription": "Imperet et impetret",
+        "name": "Madonna Con Angeli",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9318959,
+          44.408674
+        ]
+      },
+      "id": "node/3762418528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3792023019",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.931242,
+          44.4069107
+        ]
+      },
+      "id": "node/3792023019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3802530851",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9302161,
+          44.4068978
+        ]
+      },
+      "id": "node/3802530851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3803543860",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.932819,
+          44.4065317
+        ]
+      },
+      "id": "node/3803543860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3811740086",
+        "historic": "wayside_shrine",
+        "name": "Madonna della Misericordia",
+        "ref:cercamemoria": "D53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9165967,
+          44.4182815
+        ]
+      },
+      "id": "node/3811740086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3825177221",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9293017,
+          44.4144288
+        ]
+      },
+      "id": "node/3825177221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3913236866",
+        "denomination": "catholic",
+        "historic": "wayside_shrine",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9011554,
+          44.4776547
+        ]
+      },
+      "id": "node/3913236866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4023429971",
+        "artwork_type": "Madonnetta",
+        "denomination": "catholic",
+        "historic": "wayside_shrine",
+        "name": "Madonnetta",
+        "religion": "christian",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8575858,
+          44.4359206
+        ]
+      },
+      "id": "node/4023429971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4048981884",
+        "denomination": "catholic",
+        "historic": "wayside_shrine",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9277255,
+          44.4087482
+        ]
+      },
+      "id": "node/4048981884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4048981887",
+        "denomination": "catholic",
+        "historic": "wayside_shrine",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9276274,
+          44.4089336
+        ]
+      },
+      "id": "node/4048981887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4167192377",
+        "denomination": "catholic",
+        "historic": "wayside_shrine",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9000799,
+          44.4855638
+        ]
+      },
+      "id": "node/4167192377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4219177861",
+        "denomination": "catholic",
+        "historic": "wayside_shrine",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9311262,
+          44.4108453
+        ]
+      },
+      "id": "node/4219177861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4289472916",
+        "description": "Annunciazione",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9308293,
+          44.4099287
+        ]
+      },
+      "id": "node/4289472916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4340169886",
+        "denomination": "catholic",
+        "historic": "wayside_shrine",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9006543,
+          44.488766
+        ]
+      },
+      "id": "node/4340169886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4393913183",
+        "building": "wayside_shrine",
+        "denomination": "catholic",
+        "historic": "wayside_shrine",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9006159,
+          44.4825584
+        ]
+      },
+      "id": "node/4393913183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4393913184",
+        "building": "wayside_shrine",
+        "denomination": "catholic",
+        "historic": "wayside_shrine",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9007064,
+          44.4827804
+        ]
+      },
+      "id": "node/4393913184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4446045155",
+        "denomination": "catholic",
+        "historic": "wayside_shrine",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9001769,
+          44.4754108
+        ]
+      },
+      "id": "node/4446045155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4531818761",
+        "denomination": "catholic",
+        "historic": "wayside_shrine",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9007057,
+          44.4853254
+        ]
+      },
+      "id": "node/4531818761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4535698517",
+        "amenity": "place_of_worship",
+        "building": "wayside_shrine",
+        "denomination": "catholic",
+        "historic": "wayside_shrine",
+        "inscription": "Anno Mariano 1954",
+        "name": "Ave Maria",
+        "religion": "christian",
+        "start_date": "1954",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7319435,
+          44.4256026
+        ]
+      },
+      "id": "node/4535698517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4537682798",
+        "amenity": "place_of_worship",
+        "building": "wayside_shrine",
+        "denomination": "catholic",
+        "historic": "wayside_shrine",
+        "name": "Madonna della Guardia",
+        "religion": "christian",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7298897,
+          44.4252811
+        ]
+      },
+      "id": "node/4537682798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4681979769",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9995242,
+          44.3964571
+        ]
+      },
+      "id": "node/4681979769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4705271121",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8669609,
+          44.4334454
+        ]
+      },
+      "id": "node/4705271121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4771455452",
+        "addr:street": "Salita al Garbo",
+        "historic": "wayside_shrine",
+        "name": "Edicola Votiva",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.907957,
+          44.436066
+        ]
+      },
+      "id": "node/4771455452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4999538124",
+        "historic": "wayside_shrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9879542,
+          44.3989978
+        ]
+      },
+      "id": "node/4999538124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5390811623",
+        "building": "wayside_shrine",
+        "denomination": "catholic",
+        "historic": "wayside_shrine",
+        "name": "Edicola votiva della Santa Madre Francesca Saverio Cabrini",
+        "religion": "christian",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9378451,
+          44.416277
+        ]
+      },
+      "id": "node/5390811623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5390836422",
+        "building": "yes",
+        "denomination": "catholic",
+        "historic": "wayside_shrine",
+        "name": "Edicola votiva bomba inesplosa della II Guerra Mondiale",
+        "religion": "christian",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.898207,
+          44.5036416
+        ]
+      },
+      "id": "node/5390836422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5390836721",
+        "denomination": "catholic",
+        "historic": "wayside_shrine",
+        "name": "Edicola votiva itineraria del Cristo Risorto",
+        "religion": "christian",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9027641,
+          44.505786
+        ]
+      },
+      "id": "node/5390836721"
+    }
+  ]
+}
