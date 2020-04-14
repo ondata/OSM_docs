@@ -13,7 +13,9 @@
 ## Attività fatte
 
 1. Convertito il file docx in markdown con Pandoc `pandoc --extract-media ./ -f docx -t markdown LibrettoGeo4Map-bozzaluglio.docx -o LibrettoGeo4Map-bozzaluglio.md`
-2. Creato l'indice in coda a questo file
+2. Creato l'indice dei capitoli
+3. Creata struttura delle cartelle dei capitoli
+4. Copiato contenuto dei capitoli
 
 
 ## Struttura del libretto
